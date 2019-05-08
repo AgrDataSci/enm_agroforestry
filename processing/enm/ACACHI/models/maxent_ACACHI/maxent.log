@@ -1,0 +1,35 @@
+Fri Jun 01 07:33:10 CEST 2018
+MaxEnt version 3.4.1
+Reading file absence
+readGrid: max memory 477626368, total allocated 153092096, free 101238200, used 51853896, increment 1009912
+Reading samples from presence
+Read samples: max memory 477626368, total allocated 153092096, free 69973304, used 83118792, increment 31264896
+Adding samples to background in feature space
+Command line used:  autorun -e C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI/absence -o C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI -s C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI/presence -z
+Command line to repeat: java density.MaxEnt nowarnings noprefixes outputdirectory=C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI samplesfile=C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI/presence environmentallayers=C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI/absence autorun novisible
+Species: species
+Layers: bio02 bio03 bio08 bio09 bio13 bio14 bio15 bio18 bio19
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+outputdirectory: C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI
+samplesfile: C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI/presence
+environmentallayers: C:/Users/kaued/Documents/sdm/output/ACACHI/models/maxent_ACACHI/absence
+autorun: true
+visible: false
+
+getSamples: max memory 477626368, total allocated 153092096, free 68895248, used 84196848, increment 1078056
+Making features
+makeFeatures: max memory 477626368, total allocated 153092096, free 64301216, used 88790880, increment 4594032
+species: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+156 samples
+Density: max memory 477626368, total allocated 153092096, free 56572000, used 96520096, increment 7729216
+linearPredictor: max memory 477626368, total allocated 153092096, free 56572000, used 96520096, increment 0
+FeaturedSpace: max memory 477626368, total allocated 153092096, free 56572000, used 96520096, increment 0
+Sequential: max memory 477626368, total allocated 153092096, free 56572000, used 96520096, increment 0
+Initial loss: 9.225819942824568
+Time since start: 2.556
+500: time = 2.395000 loss = 6.670794
+Resulting gain: 2.555025847685485
+Projecting...
+Writing file C:\Users\kaued\Documents\sdm\output\ACACHI\models\maxent_ACACHI\species.csv
+Ending

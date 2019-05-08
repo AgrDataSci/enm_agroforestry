@@ -1,0 +1,56 @@
+[general]
+creator=R package 'raster'
+created=2018-06-01 07:37:49
+Title=ACACHI_bio_current
+
+[georeference]
+nrows=576
+ncols=720
+xmin=-105
+ymin=1
+xmax=-75
+ymax=25
+Projection=
+Datum=
+Mapunits=
+
+[data]
+datatype=INT1U
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+MinValue=0
+MaxValue=1
+NoDataValue=-1
+Transparent=0
+Units=
+
+[description]
+layername=ACACHI_bio_current_presence
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=0
+Label1=
+Color2=255
+Value2=1
+Label2=
+
+[Legend]
+Count=2
+Color1=64000
+Min1=-1
+Max1=0
+Label1=-1 - 0
+Color2=255
+Min2=0
+Max2=1
+Label2=0 - 1
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+

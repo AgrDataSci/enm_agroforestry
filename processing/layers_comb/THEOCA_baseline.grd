@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2019-05-08 11:42:58
+[georeference]
+nrows=365
+ncols=576
+xmin=-101
+ymin=6.79166666666667
+xmax=-77
+ymax=22
+projection=NA
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=0
+maxvalue=255
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=THEOCA_bio_current_presence
