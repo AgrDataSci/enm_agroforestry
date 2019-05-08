@@ -1,7 +1,7 @@
 ####################################################
-###### OVERLAP AREAS COFFEE CACAO
+###### OVERLAP AREAS COFFEE COCOA
 # This script generate Fig. 2 showing areas where 
-# cacao could replace coffee
+# cocoa could replace coffee
 ####################################################
 
 library("maptools")
@@ -67,7 +67,7 @@ lat_lbls <- unlist(lapply(lat_brks, function(x) {
 map_colours <- c("#2c7bb6","#abd9e9","#d7191c","#ffffbf","#FFFFFF")
 
 # output directory
-output <- "output/cacao_replace_coffee/"
+output <- "output/cocoa_replace_coffee/"
 dir.create(output, showWarnings = FALSE, recursive = TRUE)
 
 #generate maps 
@@ -108,7 +108,7 @@ for (i in names(scenario)){
   spplot(area)
   
   writeRaster(area, 
-              filename = paste0(output, "cacao_replace_coffee_",i,".tif"), 
+              filename = paste0(output, "cocoa_replace_coffee_",i,".tif"), 
               format = "GTiff", 
               overwrite = TRUE)
   
@@ -124,7 +124,7 @@ overlap_count <- cbind(overlap_count,
                                                  "Suitable for coffee / Suitable for cocoa"), 2)))
 
 write_csv(overlap_count, 
-          paste0(output, "cacao_replace_coffee_summary.csv"))
+          paste0(output, "cocoa_replace_coffee_summary.csv"))
 
 # .....................................
 # .....................................
@@ -175,13 +175,13 @@ head(supp_info)
 
 # export outputs
 write_csv(supp_info, 
-          paste0(output,"si_cacao_replace_coffee.csv"))
+          paste0(output,"si_cocoa_replace_coffee.csv"))
 
 supp_info <- data.frame(xtabs(~ label + rcp + ADM0_NAME + ADM1_NAME + WWF_MHTNAM, data = supp_info))
 
 supp_info <- subset(supp_info, supp_info$Freq!=0)
 
 write_csv(supp_info, 
-          paste0(output,"si_cacao_replace_coffee_frequencies.csv"))
+          paste0(output,"si_cocoa_replace_coffee_frequencies.csv"))
 
 
