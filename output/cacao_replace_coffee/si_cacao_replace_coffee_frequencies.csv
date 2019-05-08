@@ -1,0 +1,911 @@
+label,rcp,ADM0_NAME,ADM1_NAME,WWF_MHTNAM,Freq
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chiquimula,Deserts and Xeric Shrublands,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chiquimula,Deserts and Xeric Shrublands,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chiquimula,Deserts and Xeric Shrublands,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chiquimula,Deserts and Xeric Shrublands,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,El Progreso,Deserts and Xeric Shrublands,5
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,El Progreso,Deserts and Xeric Shrublands,5
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,El Progreso,Deserts and Xeric Shrublands,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,El Progreso,Deserts and Xeric Shrublands,8
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,El Progreso,Deserts and Xeric Shrublands,2
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,El Progreso,Deserts and Xeric Shrublands,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Hidalgo,Deserts and Xeric Shrublands,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Hidalgo,Deserts and Xeric Shrublands,14
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Hidalgo,Deserts and Xeric Shrublands,5
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Hidalgo,Deserts and Xeric Shrublands,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jalapa,Deserts and Xeric Shrublands,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jalapa,Deserts and Xeric Shrublands,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Queretaro,Deserts and Xeric Shrublands,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Queretaro,Deserts and Xeric Shrublands,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Zacapa,Deserts and Xeric Shrublands,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Zacapa,Deserts and Xeric Shrublands,5
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Zacapa,Deserts and Xeric Shrublands,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Zacapa,Deserts and Xeric Shrublands,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Zacapa,Deserts and Xeric Shrublands,6
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Zacapa,Deserts and Xeric Shrublands,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,16
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,19
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,17
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,21
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,69
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,26
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,66
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,31
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,42
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,24
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,51
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,15
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,200
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,40
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,441
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,44
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,223
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,42
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,435
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,37
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,50
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,50
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,44
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,22
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,50
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,18
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,19
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,30
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,20
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,31
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,18
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,18
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Colon,Tropical and Subtropical Coniferous Forests,32
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Colon,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Colon,Tropical and Subtropical Coniferous Forests,35
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Colon,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,43
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,61
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,33
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,55
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,38
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,58
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,11
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Coniferous Forests,44
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Coniferous Forests,39
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Coniferous Forests,9
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Coniferous Forests,63
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Coniferous Forests,26
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,28
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,31
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,10
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,8
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,8
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,58
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,42
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,41
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,148
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,143
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,180
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,115
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,10
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,14
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,82
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,21
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,75
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,425
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,390
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,519
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,309
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,16
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,65
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,19
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,69
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,166
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,31
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,169
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,31
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,90
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,83
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,10
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,71
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,14
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,67
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,44
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,33
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,19
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,32
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,34
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,34
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,29
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,39
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,24
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,39
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,16
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,47
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Paz,Tropical and Subtropical Coniferous Forests,16
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Paz,Tropical and Subtropical Coniferous Forests,16
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,79
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,13
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,78
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,9
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,39
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,112
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,59
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,92
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,26
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,39
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,44
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,23
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,26
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,18
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,26
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,31
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,10
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,14
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,24
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,51
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,146
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,72
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,137
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,46
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,93
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,50
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,100
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,13
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,28
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,9
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,10
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,49
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,21
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,10
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,59
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,14
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,368
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,31
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,807
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,23
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,458
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,31
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,762
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,18
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,37
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,17
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,32
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,158
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,234
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,48
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,180
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,251
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,15
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,118
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,30
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,131
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,27
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,15
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,59
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,103
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,60
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,112
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,27
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,27
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,32
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,23
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,10
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,8
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,163
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,63
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,168
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,59
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,13
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,11
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,24
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,28
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,23
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,25
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,28
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,29
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,43
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,50
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,12
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,15
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,17
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,44
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,24
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,33
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,26
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,27
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,12
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,17
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,8
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Totonicapan,Tropical and Subtropical Coniferous Forests,20
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Totonicapan,Tropical and Subtropical Coniferous Forests,22
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,13
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,18
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Valle,Tropical and Subtropical Coniferous Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Valle,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Veracruz,Tropical and Subtropical Coniferous Forests,44
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Veracruz,Tropical and Subtropical Coniferous Forests,45
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,39
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,38
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,26
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,2
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Ahuachapan,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Ahuachapan,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,37
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,17
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,39
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,15
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Cabanas,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Cabanas,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Chalatenango,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Chalatenango,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,336
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,29
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,346
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,19
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,21
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,2
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,23
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,15
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,6
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Esteli,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Esteli,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,30
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,18
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,38
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,11
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guanajuato,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guanajuato,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,109
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,115
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,21
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,16
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,13
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,17
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,2
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,19
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,20
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,20
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jutiapa,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jutiapa,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Libertad,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Libertad,Tropical and Subtropical Dry Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Paz,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Paz,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,16
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,16
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,17
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,18
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Madriz,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Madriz,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,56
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,56
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,36
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,38
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,17
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,17
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Morelos,Tropical and Subtropical Dry Broadleaf Forests,33
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Morelos,Tropical and Subtropical Dry Broadleaf Forests,33
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,223
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,61
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,240
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,44
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,38
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,35
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,50
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,23
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,18
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,18
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,8
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,8
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Salvador,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Salvador,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Vicente,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Vicente,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Santa Ana,Tropical and Subtropical Dry Broadleaf Forests,10
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Santa Ana,Tropical and Subtropical Dry Broadleaf Forests,10
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,30
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,11
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,29
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Sonsonate,Tropical and Subtropical Dry Broadleaf Forests,10
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Sonsonate,Tropical and Subtropical Dry Broadleaf Forests,10
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Veracruz,Tropical and Subtropical Dry Broadleaf Forests,13
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Veracruz,Tropical and Subtropical Dry Broadleaf Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Veraguas,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Veraguas,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,11
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,6
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,11
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Ahuachapan,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Ahuachapan,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Ahuachapan,Tropical and Subtropical Moist Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,59
+Suitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,10
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,73
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,70
+Suitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,10
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,62
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,116
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,15
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,121
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,124
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,119
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,174
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,17
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,179
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,12
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,368
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,368
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,4
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,21
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,34
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,14
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,6
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,21
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,11
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,8
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,16
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,14
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Boaco,Tropical and Subtropical Moist Broadleaf Forests,41
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Boaco,Tropical and Subtropical Moist Broadleaf Forests,41
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,25
+Suitable4coffee/Neversuitable4cocoa,rcp45,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,16
+Suitable4coffee/Suitable4cocoa,rcp45,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,67
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,31
+Suitable4coffee/Neversuitable4cocoa,rcp85,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,15
+Suitable4coffee/Suitable4cocoa,rcp85,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,62
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,24
+Suitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,22
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,49
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,32
+Suitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,26
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,42
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Belize,Cayo,Tropical and Subtropical Moist Broadleaf Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Belize,Cayo,Tropical and Subtropical Moist Broadleaf Forests,13
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Chalatenango,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Chalatenango,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,143
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,394
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,191
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,224
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,163
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,439
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,172
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,178
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,19
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,20
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,44
+Suitable4coffee/Neversuitable4cocoa,rcp45,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,15
+Suitable4coffee/Suitable4cocoa,rcp45,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,46
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,52
+Suitable4coffee/Neversuitable4cocoa,rcp85,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,13
+Suitable4coffee/Suitable4cocoa,rcp85,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,40
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Suitable4cocoa,rcp45,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Choluteca,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Choluteca,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,44
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,44
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Colon,Tropical and Subtropical Moist Broadleaf Forests,17
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Colon,Tropical and Subtropical Moist Broadleaf Forests,17
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,21
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,21
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,24
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,14
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,29
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,42
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,44
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,15
+Suitable4coffee/Suitable4cocoa,rcp45,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,16
+Suitable4coffee/Suitable4cocoa,rcp85,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,13
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,13
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp45,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Suitable4cocoa,rcp85,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,7
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,7
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,36
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,38
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Gracias A Dios,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Gracias A Dios,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,84
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,27
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,98
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,13
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Guatemala,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Guatemala,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,18
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,17
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,61
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,95
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,80
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,76
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,14
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,4
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,21
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,20
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,5
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,14
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Intibuca,Tropical and Subtropical Moist Broadleaf Forests,26
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Intibuca,Tropical and Subtropical Moist Broadleaf Forests,26
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,73
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,16
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,82
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,14
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,172
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,65
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,16
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,185
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,51
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,7
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Libertad,Tropical and Subtropical Moist Broadleaf Forests,7
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Libertad,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Libertad,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,La Paz,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,La Paz,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,La Paz,Tropical and Subtropical Moist Broadleaf Forests,11
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,La Paz,Tropical and Subtropical Moist Broadleaf Forests,11
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,25
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,25
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,19
+Suitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,16
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,76
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,27
+Suitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,16
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,69
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Madriz,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Madriz,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Masaya,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Masaya,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Masaya,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,189
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,31
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,195
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,25
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,4
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,100
+Suitable4coffee/Neversuitable4cocoa,rcp45,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp45,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,83
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,117
+Suitable4coffee/Neversuitable4cocoa,rcp85,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,4
+Suitable4coffee/Suitable4cocoa,rcp85,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,68
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,24
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,29
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,28
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,23
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,54
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,189
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,158
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,114
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,72
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,201
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,144
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,99
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,29
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,28
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,23
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,87
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,24
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,17
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,31
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,92
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,16
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,12
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,3
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,31
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,31
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,14
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,49
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,66
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,53
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,57
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,61
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,51
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,109
+Suitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,12
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,83
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,126
+Suitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,10
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,68
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Queretaro,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Queretaro,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,4
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,7
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,10
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,12
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,13
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,7
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,7
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,27
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,27
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Suitable4cocoa,rcp45,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,2
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Sacatepequez,Tropical and Subtropical Moist Broadleaf Forests,12
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Sacatepequez,Tropical and Subtropical Moist Broadleaf Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,42
+Suitable4coffee/Neversuitable4cocoa,rcp45,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,35
+Suitable4coffee/Suitable4cocoa,rcp45,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,104
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,62
+Suitable4coffee/Neversuitable4cocoa,rcp85,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,40
+Suitable4coffee/Suitable4cocoa,rcp85,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,84
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,19
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,6
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,20
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,1
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,17
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,12
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,11
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,20
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Miguel,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Miguel,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,San Vicente,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,San Vicente,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Santa Ana,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Santa Ana,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,4
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,57
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,28
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,2
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,71
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,7
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,17
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,6
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,10
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,5
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Solola,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Solola,Tropical and Subtropical Moist Broadleaf Forests,1
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Sonsonate,Tropical and Subtropical Moist Broadleaf Forests,9
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Sonsonate,Tropical and Subtropical Moist Broadleaf Forests,9
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Suchitepequez,Tropical and Subtropical Moist Broadleaf Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Suchitepequez,Tropical and Subtropical Moist Broadleaf Forests,13
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Belize,Toledo,Tropical and Subtropical Moist Broadleaf Forests,20
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Belize,Toledo,Tropical and Subtropical Moist Broadleaf Forests,20
+Suitable4coffee/Neversuitable4cocoa,rcp45,El Salvador,Usulutan,Tropical and Subtropical Moist Broadleaf Forests,3
+Suitable4coffee/Neversuitable4cocoa,rcp85,El Salvador,Usulutan,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,76
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,93
+Suitable4coffee/Neversuitable4cocoa,rcp45,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,189
+Suitable4coffee/Suitable4cocoa,rcp45,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,60
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,87
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,101
+Suitable4coffee/Neversuitable4cocoa,rcp85,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,174
+Suitable4coffee/Suitable4cocoa,rcp85,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,56
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,46
+Suitable4coffee/Suitable4cocoa,rcp45,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,44
+Suitable4coffee/Suitable4cocoa,rcp85,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,5
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,16
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,65
+Suitable4coffee/Neversuitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,21
+Suitable4coffee/Suitable4cocoa,rcp45,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,37
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,19
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,85
+Suitable4coffee/Neversuitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,14
+Suitable4coffee/Suitable4cocoa,rcp85,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,21
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,8
+Suitable4coffee/Neversuitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,5
+Suitable4coffee/Suitable4cocoa,rcp45,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,8
+Nolongersuitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,3
+Nolongersuitable4coffee/Suitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,10
+Suitable4coffee/Neversuitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,6
+Suitable4coffee/Suitable4cocoa,rcp85,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,6

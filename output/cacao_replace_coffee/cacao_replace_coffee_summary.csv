@@ -1,0 +1,13 @@
+value,count,scenario,label
+-1,4967,rcp85,No longer suitable for coffee / Never suitable for cocoa
+0,23688,rcp85,Never suitable for coffee or cocoa
+1,4010,rcp85,No longer suitable for coffee / Suitable for cocoa
+2,14507,rcp85,Never suitable for coffee / Suitable for cocoa
+3,4801,rcp85,Suitable for coffee / Never suitable for cocoa
+5,1620,rcp85,Suitable for coffee / Suitable for cocoa
+-1,4245,rcp45,No longer suitable for coffee / Never suitable for cocoa
+0,22961,rcp45,Never suitable for coffee or cocoa
+1,3690,rcp45,No longer suitable for coffee / Suitable for cocoa
+2,15376,rcp45,Never suitable for coffee / Suitable for cocoa
+3,5305,rcp45,Suitable for coffee / Never suitable for cocoa
+5,2016,rcp45,Suitable for coffee / Suitable for cocoa
