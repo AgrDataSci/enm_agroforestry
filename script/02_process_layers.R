@@ -32,15 +32,17 @@ RCP <- c(45, 85)
 
 # Read layer of inland water and remove areas of raster in water (lakes, rivers, etc)
 #source http://www.diva-gis.org/Data
-lakes <- 
-  readOGR(dsn = "data/shapefiles/water_areas/mesoamerica_water_areas_dcw.shp") %>%
+lakes <- "data/shapefiles/water_areas/mesoamerica_water_areas_dcw.shp"
+lakes %<>%  
+  readOGR(.) %>%
   subset(.$HYC_DESCRI == "Perennial/Permanent") %>%
   raster::crop(. , ext)
 
 
 # Read country borders 
-border <- 
-  readOGR(dsn = "data/shapefiles/country_borders/Mesoamerica.shp") %>%
+border <- "data/shapefiles/country_borders/Mesoamerica.shp"
+border %<>% 
+  readOGR(.) %>%
   raster::crop(. , ext)
 
 # Read rasters of tree species
