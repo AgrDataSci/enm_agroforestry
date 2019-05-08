@@ -1,8 +1,12 @@
 ####################################################
-## This script produces Fig1, Fig3 and FigS6
+## Assess the number of available species in coffee 
+## and cocoa areas under climate change 
+# This script produces Fig. 1, Fig. 3 and Fig. S6
 ####################################################
 
-###  LOAD PACKAGES   ######
+# .............................................
+# .............................................
+#  Packages  ####
 library("tidyverse")
 library("magrittr")
 library("svglite")
