@@ -16,4 +16,4 @@ This analysis uses bioclimatic variables from [WorldClim](http://www.worldclim.o
 
 ### Ensemble models
 
-Ensemble model outputs produced by the script "script/01\_ensemble\_modelling.R" are also too large to upload to GitHub (approx. 9 GB). If you want to use these files please open a request on the [issues](https://github.com/kauedesousa/enm_agroforestry/issues) section in this repository or via e-mail to the repository maintainer.
+Ensemble model outputs produced by the script "script/01\_ensemble\_modelling.R" are also too large to upload to GitHub (approx. 90 GB). If you want to get access to these files please open a request on the [issues](https://github.com/kauedesousa/enm_agroforestry/issues) section in this repository or via e-mail to the repository maintainer.

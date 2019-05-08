@@ -1,0 +1,1584 @@
+crop,layer,ADM0_NAME,ADM1_NAME,WWF_MHTNAM,Freq
+COFFAR45,-1,Guatemala,Chiquimula,Deserts and Xeric Shrublands,2
+COFFAR85,-1,Guatemala,Chiquimula,Deserts and Xeric Shrublands,2
+COFFAR45,1,Guatemala,Chiquimula,Deserts and Xeric Shrublands,4
+COFFAR85,1,Guatemala,Chiquimula,Deserts and Xeric Shrublands,4
+COFFAR45,-1,Guatemala,El Progreso,Deserts and Xeric Shrublands,5
+COFFAR85,-1,Guatemala,El Progreso,Deserts and Xeric Shrublands,8
+COFFAR45,1,Guatemala,El Progreso,Deserts and Xeric Shrublands,5
+COFFAR85,1,Guatemala,El Progreso,Deserts and Xeric Shrublands,2
+THEOCA45,1,Guatemala,El Progreso,Deserts and Xeric Shrublands,1
+THEOCA85,1,Guatemala,El Progreso,Deserts and Xeric Shrublands,1
+COFFAR45,2,Guatemala,El Progreso,Deserts and Xeric Shrublands,1
+COFFAR85,2,Guatemala,El Progreso,Deserts and Xeric Shrublands,1
+COFFAR45,-1,Mexico,Hidalgo,Deserts and Xeric Shrublands,4
+COFFAR85,-1,Mexico,Hidalgo,Deserts and Xeric Shrublands,5
+COFFAR45,1,Mexico,Hidalgo,Deserts and Xeric Shrublands,2
+COFFAR85,1,Mexico,Hidalgo,Deserts and Xeric Shrublands,1
+COFFAR45,2,Mexico,Hidalgo,Deserts and Xeric Shrublands,12
+COFFAR85,2,Mexico,Hidalgo,Deserts and Xeric Shrublands,11
+COFFAR45,-1,Guatemala,Jalapa,Deserts and Xeric Shrublands,2
+COFFAR85,-1,Guatemala,Jalapa,Deserts and Xeric Shrublands,2
+COFFAR45,-1,Mexico,Queretaro,Deserts and Xeric Shrublands,2
+COFFAR85,-1,Mexico,Queretaro,Deserts and Xeric Shrublands,2
+COFFAR45,-1,Guatemala,Zacapa,Deserts and Xeric Shrublands,10
+COFFAR85,-1,Guatemala,Zacapa,Deserts and Xeric Shrublands,10
+THEOCA45,-1,Guatemala,Zacapa,Deserts and Xeric Shrublands,1
+THEOCA85,-1,Guatemala,Zacapa,Deserts and Xeric Shrublands,1
+COFFAR45,1,Guatemala,Zacapa,Deserts and Xeric Shrublands,12
+COFFAR85,1,Guatemala,Zacapa,Deserts and Xeric Shrublands,12
+THEOCA45,1,Guatemala,Zacapa,Deserts and Xeric Shrublands,17
+THEOCA85,1,Guatemala,Zacapa,Deserts and Xeric Shrublands,17
+THEOCA45,2,Guatemala,Zacapa,Deserts and Xeric Shrublands,3
+THEOCA85,2,Guatemala,Zacapa,Deserts and Xeric Shrublands,3
+THEOCA45,1,Nicaragua,Atlantico Norte,Mangroves,71
+THEOCA85,1,Nicaragua,Atlantico Norte,Mangroves,71
+THEOCA45,-1,Nicaragua,Atlantico Sur,Mangroves,6
+THEOCA85,-1,Nicaragua,Atlantico Sur,Mangroves,8
+THEOCA45,1,Nicaragua,Atlantico Sur,Mangroves,70
+THEOCA85,1,Nicaragua,Atlantico Sur,Mangroves,68
+THEOCA45,1,Honduras,Atlantida,Mangroves,9
+THEOCA85,1,Honduras,Atlantida,Mangroves,9
+THEOCA45,1,Belize,Belize,Mangroves,37
+THEOCA85,1,Belize,Belize,Mangroves,37
+THEOCA45,-1,Panama,Bocas del Toro,Mangroves,1
+THEOCA45,1,Panama,Bocas del Toro,Mangroves,13
+THEOCA85,1,Panama,Bocas del Toro,Mangroves,14
+THEOCA45,-1,Mexico,Campeche,Mangroves,30
+THEOCA85,-1,Mexico,Campeche,Mangroves,35
+THEOCA45,1,Mexico,Campeche,Mangroves,51
+THEOCA85,1,Mexico,Campeche,Mangroves,46
+THEOCA85,-1,Nicaragua,Carazo,Mangroves,1
+THEOCA45,1,Nicaragua,Carazo,Mangroves,1
+THEOCA45,-1,Mexico,Chiapas,Mangroves,3
+THEOCA85,-1,Mexico,Chiapas,Mangroves,5
+THEOCA45,1,Mexico,Chiapas,Mangroves,2
+THEOCA45,-1,Nicaragua,Chinandega,Mangroves,2
+THEOCA85,-1,Nicaragua,Chinandega,Mangroves,17
+THEOCA45,1,Nicaragua,Chinandega,Mangroves,26
+THEOCA85,1,Nicaragua,Chinandega,Mangroves,11
+THEOCA45,1,Panama,Chiriqui,Mangroves,34
+THEOCA85,1,Panama,Chiriqui,Mangroves,34
+THEOCA45,-1,Colombia,Choco,Mangroves,6
+THEOCA85,-1,Colombia,Choco,Mangroves,7
+THEOCA45,1,Colombia,Choco,Mangroves,2
+THEOCA85,1,Colombia,Choco,Mangroves,1
+THEOCA45,2,Colombia,Choco,Mangroves,1
+THEOCA85,2,Colombia,Choco,Mangroves,1
+THEOCA45,-1,Honduras,Choluteca,Mangroves,11
+THEOCA85,-1,Honduras,Choluteca,Mangroves,10
+THEOCA45,1,Honduras,Choluteca,Mangroves,6
+THEOCA85,1,Honduras,Choluteca,Mangroves,7
+THEOCA45,-1,Panama,Cocle,Mangroves,2
+THEOCA85,-1,Panama,Cocle,Mangroves,11
+THEOCA45,1,Panama,Cocle,Mangroves,12
+THEOCA85,1,Panama,Cocle,Mangroves,3
+THEOCA45,1,Honduras,Colon,Mangroves,7
+THEOCA85,1,Honduras,Colon,Mangroves,7
+THEOCA45,1,Panama,Colon,Mangroves,3
+THEOCA85,1,Panama,Colon,Mangroves,3
+THEOCA45,-1,Belize,Corozal,Mangroves,3
+THEOCA85,-1,Belize,Corozal,Mangroves,7
+THEOCA45,1,Belize,Corozal,Mangroves,53
+THEOCA85,1,Belize,Corozal,Mangroves,49
+THEOCA45,1,Honduras,Cortes,Mangroves,2
+THEOCA85,1,Honduras,Cortes,Mangroves,2
+THEOCA45,1,Honduras,Gracias A Dios,Mangroves,71
+THEOCA85,1,Honduras,Gracias A Dios,Mangroves,71
+THEOCA85,-1,Costa Rica,Guanacaste,Mangroves,5
+THEOCA45,1,Costa Rica,Guanacaste,Mangroves,16
+THEOCA85,1,Costa Rica,Guanacaste,Mangroves,11
+THEOCA45,-1,Panama,Herrera,Mangroves,1
+THEOCA85,-1,Panama,Herrera,Mangroves,2
+THEOCA45,1,Panama,Herrera,Mangroves,1
+THEOCA45,1,Guatemala,Izabal,Mangroves,16
+THEOCA85,1,Guatemala,Izabal,Mangroves,16
+THEOCA45,1,Panama,Kuna Yala,Mangroves,1
+THEOCA85,1,Panama,Kuna Yala,Mangroves,1
+THEOCA45,-1,El Salvador,La Libertad,Mangroves,1
+THEOCA85,-1,El Salvador,La Libertad,Mangroves,1
+THEOCA45,-1,El Salvador,La Paz,Mangroves,4
+THEOCA85,-1,El Salvador,La Paz,Mangroves,4
+THEOCA45,-1,El Salvador,La Union,Mangroves,1
+THEOCA85,-1,El Salvador,La Union,Mangroves,1
+THEOCA45,-1,Costa Rica,Limon,Mangroves,9
+THEOCA85,-1,Costa Rica,Limon,Mangroves,9
+THEOCA45,1,Costa Rica,Limon,Mangroves,2
+THEOCA85,1,Costa Rica,Limon,Mangroves,2
+THEOCA45,-1,Nicaragua,Managua,Mangroves,1
+THEOCA85,-1,Nicaragua,Managua,Mangroves,1
+THEOCA45,1,Panama,Ngobe Bugle,Mangroves,8
+THEOCA85,1,Panama,Ngobe Bugle,Mangroves,8
+THEOCA45,-1,Panama,Panama,Mangroves,20
+THEOCA85,-1,Panama,Panama,Mangroves,20
+THEOCA85,-1,Costa Rica,Puntarenas,Mangroves,1
+THEOCA45,1,Costa Rica,Puntarenas,Mangroves,31
+THEOCA85,1,Costa Rica,Puntarenas,Mangroves,30
+THEOCA45,-1,Mexico,Quintana Roo,Mangroves,21
+THEOCA85,-1,Mexico,Quintana Roo,Mangroves,14
+THEOCA45,1,Mexico,Quintana Roo,Mangroves,187
+THEOCA85,1,Mexico,Quintana Roo,Mangroves,194
+THEOCA85,2,Mexico,Quintana Roo,Mangroves,3
+THEOCA45,1,Belize,Stann Creek,Mangroves,11
+THEOCA85,1,Belize,Stann Creek,Mangroves,11
+THEOCA45,1,Mexico,Tabasco,Mangroves,6
+THEOCA85,1,Mexico,Tabasco,Mangroves,6
+THEOCA45,1,Belize,Toledo,Mangroves,20
+THEOCA85,1,Belize,Toledo,Mangroves,20
+THEOCA45,-1,El Salvador,Usulutan,Mangroves,18
+THEOCA85,-1,El Salvador,Usulutan,Mangroves,20
+THEOCA45,1,El Salvador,Usulutan,Mangroves,2
+THEOCA45,-1,Honduras,Valle,Mangroves,17
+THEOCA85,-1,Honduras,Valle,Mangroves,17
+THEOCA45,-1,Mexico,Veracruz,Mangroves,3
+THEOCA85,-1,Mexico,Veracruz,Mangroves,6
+THEOCA45,1,Mexico,Veracruz,Mangroves,50
+THEOCA85,1,Mexico,Veracruz,Mangroves,47
+THEOCA45,-1,Panama,Veraguas,Mangroves,2
+THEOCA85,-1,Panama,Veraguas,Mangroves,1
+THEOCA45,1,Panama,Veraguas,Mangroves,14
+THEOCA85,1,Panama,Veraguas,Mangroves,15
+COFFAR45,-1,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,-1,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,19
+THEOCA45,-1,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,1,El Salvador,Ahuachapan,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,15
+COFFAR85,-1,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,17
+COFFAR45,1,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,10
+COFFAR85,1,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,8
+THEOCA45,1,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,36
+THEOCA85,1,Guatemala,Alta Verapaz,Tropical and Subtropical Coniferous Forests,36
+THEOCA45,1,Nicaragua,Atlantico Norte,Tropical and Subtropical Coniferous Forests,526
+THEOCA85,1,Nicaragua,Atlantico Norte,Tropical and Subtropical Coniferous Forests,526
+THEOCA45,1,Nicaragua,Atlantico Sur,Tropical and Subtropical Coniferous Forests,35
+THEOCA85,1,Nicaragua,Atlantico Sur,Tropical and Subtropical Coniferous Forests,35
+COFFAR45,-1,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,21
+COFFAR85,-1,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,26
+THEOCA45,-1,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,71
+COFFAR85,1,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,66
+THEOCA45,2,Guatemala,Baja Verapaz,Tropical and Subtropical Coniferous Forests,2
+THEOCA45,1,Belize,Belize,Tropical and Subtropical Coniferous Forests,56
+THEOCA85,1,Belize,Belize,Tropical and Subtropical Coniferous Forests,56
+COFFAR45,-1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,-1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,6
+THEOCA45,-1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,3
+THEOCA45,1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,5
+THEOCA85,1,Nicaragua,Boaco,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,-1,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,25
+COFFAR85,-1,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,31
+THEOCA45,-1,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,5
+THEOCA85,-1,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,1,El Salvador,Cabanas,Tropical and Subtropical Coniferous Forests,6
+THEOCA45,1,Belize,Cayo,Tropical and Subtropical Coniferous Forests,31
+THEOCA85,1,Belize,Cayo,Tropical and Subtropical Coniferous Forests,31
+COFFAR45,-1,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,42
+COFFAR85,-1,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,51
+THEOCA45,-1,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,-1,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,22
+COFFAR85,1,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,13
+COFFAR45,2,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,2
+COFFAR85,2,El Salvador,Chalatenango,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,240
+COFFAR85,-1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,265
+THEOCA45,-1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,8
+THEOCA85,-1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,10
+COFFAR45,1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,412
+COFFAR85,1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,387
+THEOCA45,1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,68
+THEOCA85,1,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,66
+COFFAR45,2,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,73
+COFFAR85,2,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,85
+THEOCA45,2,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,16
+THEOCA85,2,Mexico,Chiapas,Tropical and Subtropical Coniferous Forests,13
+COFFAR45,-1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,-1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,8
+THEOCA45,-1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,46
+COFFAR85,1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,45
+THEOCA45,1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,10
+THEOCA85,1,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,11
+COFFAR45,2,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,9
+COFFAR85,2,Guatemala,Chimaltenango,Tropical and Subtropical Coniferous Forests,10
+COFFAR45,-1,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,-1,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,1,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,1
+COFFAR85,1,Nicaragua,Chinandega,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,45
+COFFAR85,-1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,50
+THEOCA45,-1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,24
+COFFAR85,1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,19
+THEOCA45,1,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,2
+THEOCA45,2,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,2,Guatemala,Chiquimula,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,19
+COFFAR85,-1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,20
+THEOCA45,-1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,11
+THEOCA85,-1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,14
+COFFAR45,1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,32
+COFFAR85,1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,31
+THEOCA45,1,Honduras,Choluteca,Tropical and Subtropical Coniferous Forests,3
+COFFAR45,-1,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,19
+COFFAR85,-1,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,19
+THEOCA45,-1,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,5
+THEOCA85,-1,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,8
+THEOCA45,1,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,28
+THEOCA85,1,Nicaragua,Chontales,Tropical and Subtropical Coniferous Forests,25
+COFFAR45,-1,Honduras,Colon,Tropical and Subtropical Coniferous Forests,32
+COFFAR85,-1,Honduras,Colon,Tropical and Subtropical Coniferous Forests,35
+COFFAR45,1,Honduras,Colon,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,1,Honduras,Colon,Tropical and Subtropical Coniferous Forests,1
+THEOCA45,1,Honduras,Colon,Tropical and Subtropical Coniferous Forests,88
+THEOCA85,1,Honduras,Colon,Tropical and Subtropical Coniferous Forests,88
+COFFAR45,-1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,68
+COFFAR85,-1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,93
+THEOCA45,-1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,4
+THEOCA85,-1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,10
+COFFAR45,1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,94
+COFFAR85,1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,69
+THEOCA45,1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,53
+THEOCA85,1,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,47
+THEOCA45,2,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,5
+THEOCA85,2,Honduras,Comayagua,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,59
+COFFAR85,-1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,78
+THEOCA45,-1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,8
+THEOCA85,-1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,13
+COFFAR45,1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,48
+COFFAR85,1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,29
+THEOCA45,1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,23
+THEOCA85,1,Honduras,Copan,Tropical and Subtropical Coniferous Forests,18
+THEOCA45,2,Honduras,Copan,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,28
+COFFAR85,-1,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,31
+THEOCA45,-1,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,1,El Salvador,Cuscatlan,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,10
+COFFAR85,-1,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,12
+COFFAR45,1,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,1,Guatemala,El Progreso,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,-1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,-1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,6
+THEOCA45,-1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,-1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,9
+COFFAR85,1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,9
+THEOCA45,1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,9
+THEOCA85,1,Guatemala,Escuintla,Tropical and Subtropical Coniferous Forests,8
+COFFAR45,-1,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,25
+COFFAR85,-1,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,42
+COFFAR45,1,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,59
+COFFAR85,1,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,42
+THEOCA45,2,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,2,Nicaragua,Esteli,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,152
+COFFAR85,-1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,180
+THEOCA45,-1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,7
+THEOCA85,-1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,10
+COFFAR45,1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,143
+COFFAR85,1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,115
+THEOCA45,1,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,3
+THEOCA45,2,Honduras,Francisco Morazan,Tropical and Subtropical Coniferous Forests,1
+THEOCA45,1,Honduras,Gracias A Dios,Tropical and Subtropical Coniferous Forests,297
+THEOCA85,1,Honduras,Gracias A Dios,Tropical and Subtropical Coniferous Forests,297
+COFFAR45,-1,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,9
+COFFAR85,-1,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,10
+COFFAR45,1,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,2,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,2,Mexico,Guanajuato,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,-1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,14
+COFFAR85,-1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,21
+THEOCA45,-1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,-1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,80
+COFFAR85,1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,73
+THEOCA45,1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,1,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,2,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,2
+COFFAR85,2,Guatemala,Guatemala,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,425
+COFFAR85,-1,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,519
+COFFAR45,1,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,374
+COFFAR85,1,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,280
+COFFAR45,2,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,2,Mexico,Guerrero,Tropical and Subtropical Coniferous Forests,29
+COFFAR45,-1,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,-1,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,19
+COFFAR45,1,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,21
+COFFAR85,1,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,18
+COFFAR45,2,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,44
+COFFAR85,2,Mexico,Hidalgo,Tropical and Subtropical Coniferous Forests,51
+COFFAR45,-1,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,1
+COFFAR85,-1,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,3
+COFFAR45,1,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,166
+COFFAR85,1,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,164
+THEOCA45,1,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,25
+THEOCA85,1,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,25
+COFFAR45,2,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,31
+COFFAR85,2,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,36
+THEOCA45,2,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,6
+THEOCA85,2,Guatemala,Huehuetenango,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,-1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,-1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,13
+THEOCA45,-1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,92
+COFFAR85,1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,84
+THEOCA45,1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,4
+THEOCA85,1,Honduras,Intibuca,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,-1,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,10
+COFFAR85,-1,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,14
+COFFAR45,1,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,66
+COFFAR85,1,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,62
+COFFAR45,2,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,2,Guatemala,Jalapa,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,-1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,10
+COFFAR85,-1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,21
+THEOCA45,-1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,-1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,77
+COFFAR85,1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,66
+THEOCA45,1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,21
+THEOCA85,1,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,21
+THEOCA45,2,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,13
+THEOCA85,2,Nicaragua,Jinotega,Tropical and Subtropical Coniferous Forests,15
+COFFAR45,-1,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,34
+COFFAR85,-1,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,39
+COFFAR45,1,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,29
+COFFAR85,1,Guatemala,Jutiapa,Tropical and Subtropical Coniferous Forests,24
+COFFAR45,-1,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,39
+COFFAR85,-1,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,47
+THEOCA45,-1,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,10
+THEOCA85,-1,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,10
+COFFAR45,1,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,1,El Salvador,La Libertad,Tropical and Subtropical Coniferous Forests,8
+COFFAR45,-1,El Salvador,La Paz,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,-1,El Salvador,La Paz,Tropical and Subtropical Coniferous Forests,16
+THEOCA45,-1,El Salvador,La Paz,Tropical and Subtropical Coniferous Forests,6
+THEOCA85,-1,El Salvador,La Paz,Tropical and Subtropical Coniferous Forests,6
+COFFAR45,-1,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,12
+COFFAR85,-1,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,13
+THEOCA45,-1,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,79
+COFFAR85,1,Honduras,La Paz,Tropical and Subtropical Coniferous Forests,78
+COFFAR45,-1,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,-1,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,9
+THEOCA45,-1,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,3
+THEOCA85,-1,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,1,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,2
+THEOCA45,1,El Salvador,La Union,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,39
+COFFAR85,-1,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,59
+COFFAR45,1,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,112
+COFFAR85,1,Honduras,Lempira,Tropical and Subtropical Coniferous Forests,92
+COFFAR45,-1,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,-1,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,1,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,2
+COFFAR85,1,Nicaragua,Leon,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,26
+COFFAR85,-1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,44
+THEOCA85,-1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,46
+COFFAR85,1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,28
+THEOCA45,1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,7
+THEOCA85,1,Nicaragua,Madriz,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,-1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,35
+COFFAR85,-1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,41
+THEOCA45,-1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,3
+THEOCA85,-1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,44
+COFFAR85,1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,38
+THEOCA45,1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,34
+THEOCA85,1,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,33
+THEOCA45,2,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,2,Nicaragua,Matagalpa,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,51
+COFFAR85,-1,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,72
+COFFAR45,1,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,115
+COFFAR85,1,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,94
+COFFAR45,2,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,31
+COFFAR85,2,Mexico,Mexico,Tropical and Subtropical Coniferous Forests,43
+COFFAR45,-1,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,46
+COFFAR85,-1,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,50
+COFFAR45,1,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,39
+COFFAR85,1,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,35
+COFFAR45,2,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,54
+COFFAR85,2,Mexico,Michoacan,Tropical and Subtropical Coniferous Forests,65
+COFFAR45,-1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,25
+COFFAR85,-1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,29
+THEOCA45,-1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,10
+THEOCA85,-1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,11
+COFFAR45,1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,13
+COFFAR85,1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,9
+THEOCA45,1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,3
+THEOCA85,1,El Salvador,Morazan,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,12
+COFFAR85,-1,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,15
+COFFAR45,1,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,1,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,3
+COFFAR45,2,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,2,Mexico,Morelos,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,54
+COFFAR85,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,64
+THEOCA45,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,3
+THEOCA85,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,6
+COFFAR45,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,31
+COFFAR85,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,21
+THEOCA45,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,15
+THEOCA85,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Coniferous Forests,12
+COFFAR45,-1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,399
+COFFAR85,-1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,489
+THEOCA45,-1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,6
+THEOCA85,-1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,12
+COFFAR45,1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,678
+COFFAR85,1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,588
+THEOCA45,1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,60
+THEOCA85,1,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,54
+COFFAR45,2,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,152
+COFFAR85,2,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,192
+THEOCA85,2,Mexico,Oaxaca,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,12
+COFFAR85,-1,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,17
+COFFAR45,1,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,37
+COFFAR85,1,Honduras,Ocotepeque,Tropical and Subtropical Coniferous Forests,32
+COFFAR45,-1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,392
+COFFAR85,-1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,431
+THEOCA45,-1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,11
+THEOCA85,-1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,30
+COFFAR45,1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,55
+COFFAR85,1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,16
+THEOCA45,1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,374
+THEOCA85,1,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,355
+THEOCA45,2,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,20
+THEOCA85,2,Honduras,Olancho,Tropical and Subtropical Coniferous Forests,12
+THEOCA45,1,Belize,Orange Walk,Tropical and Subtropical Coniferous Forests,13
+THEOCA85,1,Belize,Orange Walk,Tropical and Subtropical Coniferous Forests,13
+COFFAR45,-1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,125
+COFFAR85,-1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,138
+THEOCA45,-1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,4
+THEOCA85,-1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,16
+COFFAR45,1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,55
+COFFAR85,1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,42
+THEOCA45,1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,34
+THEOCA85,1,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,22
+THEOCA45,2,Honduras,Paraiso,Tropical and Subtropical Coniferous Forests,3
+COFFAR45,-1,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,61
+COFFAR85,-1,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,62
+COFFAR45,1,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,61
+COFFAR85,1,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,60
+THEOCA45,1,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,5
+THEOCA85,1,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,2,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,46
+COFFAR85,2,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,56
+THEOCA45,2,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,2,Mexico,Puebla,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,27
+COFFAR85,-1,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,32
+COFFAR45,1,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,21
+COFFAR85,1,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,16
+COFFAR45,2,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,2,Mexico,Queretaro,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,-1,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,13
+COFFAR85,1,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,11
+THEOCA45,1,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,8
+THEOCA85,1,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,2,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,2,Guatemala,Quetzaltenango,Tropical and Subtropical Coniferous Forests,6
+COFFAR45,-1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,-1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,16
+THEOCA45,-1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,-1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,199
+COFFAR85,1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,199
+THEOCA45,1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,66
+THEOCA85,1,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,63
+COFFAR45,2,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,27
+COFFAR85,2,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,28
+THEOCA45,2,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,14
+THEOCA85,2,Guatemala,Quiche,Tropical and Subtropical Coniferous Forests,13
+COFFAR45,-1,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,2
+COFFAR85,-1,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,1
+COFFAR85,1,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,1
+THEOCA45,1,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,1,Guatemala,Retalhuleu,Tropical and Subtropical Coniferous Forests,2
+THEOCA45,1,Nicaragua,Rio San Juan,Tropical and Subtropical Coniferous Forests,7
+THEOCA85,1,Nicaragua,Rio San Juan,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,-1,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,1
+COFFAR85,-1,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,13
+COFFAR85,1,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,13
+THEOCA45,1,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,1,Guatemala,Sacatepequez,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,-1,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,9
+COFFAR45,1,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,11
+COFFAR85,1,Mexico,San Luis Potosi,Tropical and Subtropical Coniferous Forests,9
+COFFAR45,-1,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,-1,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,1,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,13
+COFFAR85,1,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,13
+THEOCA45,1,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,4
+THEOCA85,1,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,2,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,11
+COFFAR85,2,Guatemala,San Marcos,Tropical and Subtropical Coniferous Forests,15
+COFFAR45,-1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,24
+COFFAR85,-1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,26
+THEOCA45,-1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,26
+THEOCA85,-1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,32
+COFFAR45,1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,3
+THEOCA45,1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,8
+THEOCA85,1,El Salvador,San Miguel,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,28
+COFFAR85,-1,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,29
+COFFAR45,1,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,3
+COFFAR85,1,El Salvador,San Salvador,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,-1,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,25
+COFFAR85,-1,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,25
+THEOCA45,-1,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,15
+THEOCA85,-1,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,15
+COFFAR45,1,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,1
+COFFAR85,1,El Salvador,San Vicente,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,43
+COFFAR85,-1,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,50
+COFFAR45,1,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,12
+COFFAR85,1,El Salvador,Santa Ana,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,-1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,19
+COFFAR85,-1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,23
+THEOCA45,-1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,12
+THEOCA85,-1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,13
+COFFAR45,1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,17
+COFFAR85,1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,13
+THEOCA45,1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,7
+THEOCA85,1,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,6
+THEOCA45,2,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,2,Honduras,Santa Barbara,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,16
+COFFAR85,-1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,27
+THEOCA45,-1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,2
+THEOCA85,-1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,2
+COFFAR45,1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,44
+COFFAR85,1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,33
+THEOCA45,1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,3
+THEOCA85,1,Guatemala,Santa Rosa,Tropical and Subtropical Coniferous Forests,3
+COFFAR45,-1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,4
+COFFAR85,-1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,5
+THEOCA45,-1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,25
+COFFAR85,1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,24
+THEOCA45,1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,7
+THEOCA85,1,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,8
+COFFAR45,2,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,2,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,7
+THEOCA45,2,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,1
+THEOCA85,2,Guatemala,Solola,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,12
+COFFAR85,-1,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,17
+THEOCA45,-1,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,14
+THEOCA85,-1,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,14
+COFFAR45,1,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,7
+COFFAR85,1,El Salvador,Sonsonate,Tropical and Subtropical Coniferous Forests,2
+THEOCA45,1,Belize,Stann Creek,Tropical and Subtropical Coniferous Forests,15
+THEOCA85,1,Belize,Stann Creek,Tropical and Subtropical Coniferous Forests,15
+COFFAR45,-1,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,-1,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,8
+COFFAR45,1,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,5
+COFFAR85,1,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,3
+THEOCA45,1,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,9
+THEOCA85,1,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,9
+THEOCA85,2,Guatemala,Suchitepequez,Tropical and Subtropical Coniferous Forests,1
+THEOCA45,1,Belize,Toledo,Tropical and Subtropical Coniferous Forests,18
+THEOCA85,1,Belize,Toledo,Tropical and Subtropical Coniferous Forests,18
+COFFAR45,1,Guatemala,Totonicapan,Tropical and Subtropical Coniferous Forests,18
+COFFAR85,1,Guatemala,Totonicapan,Tropical and Subtropical Coniferous Forests,18
+COFFAR45,2,Guatemala,Totonicapan,Tropical and Subtropical Coniferous Forests,2
+COFFAR85,2,Guatemala,Totonicapan,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,-1,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,13
+COFFAR85,-1,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,18
+THEOCA45,-1,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,23
+THEOCA85,-1,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,23
+COFFAR45,1,El Salvador,Usulutan,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,-1,Honduras,Valle,Tropical and Subtropical Coniferous Forests,2
+COFFAR85,-1,Honduras,Valle,Tropical and Subtropical Coniferous Forests,2
+THEOCA45,-1,Honduras,Valle,Tropical and Subtropical Coniferous Forests,9
+THEOCA85,-1,Honduras,Valle,Tropical and Subtropical Coniferous Forests,9
+COFFAR45,1,Mexico,Veracruz,Tropical and Subtropical Coniferous Forests,26
+COFFAR85,1,Mexico,Veracruz,Tropical and Subtropical Coniferous Forests,26
+COFFAR45,2,Mexico,Veracruz,Tropical and Subtropical Coniferous Forests,18
+COFFAR85,2,Mexico,Veracruz,Tropical and Subtropical Coniferous Forests,19
+COFFAR45,-1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,64
+COFFAR85,-1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,64
+THEOCA45,-1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,6
+THEOCA85,-1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,5
+COFFAR45,1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,1
+COFFAR85,1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,1
+THEOCA45,1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,30
+THEOCA85,1,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,31
+THEOCA45,2,Honduras,Yoro,Tropical and Subtropical Coniferous Forests,1
+COFFAR45,-1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,12
+COFFAR85,-1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,14
+THEOCA45,-1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,3
+THEOCA85,-1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,4
+COFFAR45,1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,6
+COFFAR85,1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,4
+THEOCA45,1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,8
+THEOCA85,1,Guatemala,Zacapa,Tropical and Subtropical Coniferous Forests,7
+COFFAR45,-1,El Salvador,Ahuachapan,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,El Salvador,Ahuachapan,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,-1,El Salvador,Ahuachapan,Tropical and Subtropical Dry Broadleaf Forests,11
+THEOCA85,-1,El Salvador,Ahuachapan,Tropical and Subtropical Dry Broadleaf Forests,11
+THEOCA45,1,Honduras,Atlantida,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA85,1,Honduras,Atlantida,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR45,-1,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,54
+COFFAR85,-1,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,54
+THEOCA45,-1,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,6
+THEOCA85,-1,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,10
+THEOCA45,1,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,21
+THEOCA85,1,Nicaragua,Boaco,Tropical and Subtropical Dry Broadleaf Forests,17
+COFFAR45,-1,El Salvador,Cabanas,Tropical and Subtropical Dry Broadleaf Forests,8
+COFFAR85,-1,El Salvador,Cabanas,Tropical and Subtropical Dry Broadleaf Forests,8
+THEOCA45,-1,El Salvador,Cabanas,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA85,-1,El Salvador,Cabanas,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA45,-1,Nicaragua,Carazo,Tropical and Subtropical Dry Broadleaf Forests,8
+THEOCA85,-1,Nicaragua,Carazo,Tropical and Subtropical Dry Broadleaf Forests,22
+THEOCA45,1,Nicaragua,Carazo,Tropical and Subtropical Dry Broadleaf Forests,18
+THEOCA85,1,Nicaragua,Carazo,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR45,-1,El Salvador,Chalatenango,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR85,-1,El Salvador,Chalatenango,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR45,-1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,339
+COFFAR85,-1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,349
+THEOCA45,-1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,17
+THEOCA85,-1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,13
+COFFAR45,1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,29
+COFFAR85,1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,19
+THEOCA45,1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,27
+THEOCA85,1,Mexico,Chiapas,Tropical and Subtropical Dry Broadleaf Forests,31
+COFFAR45,-1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,6
+COFFAR85,-1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,7
+THEOCA45,-1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,45
+THEOCA85,-1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,83
+COFFAR45,1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR85,1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,60
+THEOCA85,1,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,22
+THEOCA45,2,Nicaragua,Chinandega,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR85,-1,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA45,-1,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,49
+THEOCA85,-1,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,53
+THEOCA45,1,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,22
+THEOCA85,1,Honduras,Choluteca,Tropical and Subtropical Dry Broadleaf Forests,18
+COFFAR45,-1,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,12
+COFFAR85,-1,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,12
+THEOCA45,-1,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,8
+THEOCA85,-1,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA45,1,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,10
+THEOCA85,1,Nicaragua,Chontales,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA45,-1,Panama,Cocle,Tropical and Subtropical Dry Broadleaf Forests,23
+THEOCA85,-1,Panama,Cocle,Tropical and Subtropical Dry Broadleaf Forests,53
+THEOCA45,1,Panama,Cocle,Tropical and Subtropical Dry Broadleaf Forests,60
+THEOCA85,1,Panama,Cocle,Tropical and Subtropical Dry Broadleaf Forests,30
+COFFAR45,-1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,36
+COFFAR85,-1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,38
+THEOCA45,-1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA85,-1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR45,1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR85,1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,16
+THEOCA85,1,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,15
+THEOCA45,2,Honduras,Comayagua,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR85,-1,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA45,-1,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA85,-1,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,1,Honduras,Copan,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,6
+COFFAR85,-1,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,6
+THEOCA45,-1,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,87
+THEOCA85,1,Honduras,Cortes,Tropical and Subtropical Dry Broadleaf Forests,88
+THEOCA45,-1,Guatemala,Escuintla,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA85,-1,Guatemala,Escuintla,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA45,1,Guatemala,Escuintla,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA85,1,Guatemala,Escuintla,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,2,Guatemala,Escuintla,Tropical and Subtropical Dry Broadleaf Forests,6
+THEOCA85,2,Guatemala,Escuintla,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Esteli,Tropical and Subtropical Dry Broadleaf Forests,8
+COFFAR85,-1,Nicaragua,Esteli,Tropical and Subtropical Dry Broadleaf Forests,8
+COFFAR45,-1,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,31
+COFFAR85,-1,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,38
+THEOCA45,-1,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA85,-1,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR45,1,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,18
+COFFAR85,1,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,11
+THEOCA45,2,Honduras,Francisco Morazan,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR85,-1,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA45,-1,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,-1,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA45,1,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,9
+THEOCA85,1,Nicaragua,Granada,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR45,-1,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR85,-1,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,7
+THEOCA45,-1,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA85,-1,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,48
+THEOCA45,1,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,267
+THEOCA85,1,Costa Rica,Guanacaste,Tropical and Subtropical Dry Broadleaf Forests,221
+COFFAR45,-1,Mexico,Guanajuato,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR85,-1,Mexico,Guanajuato,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR45,-1,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,109
+COFFAR85,-1,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,115
+COFFAR45,1,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,12
+COFFAR85,1,Mexico,Guerrero,Tropical and Subtropical Dry Broadleaf Forests,6
+THEOCA45,-1,Panama,Herrera,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA85,-1,Panama,Herrera,Tropical and Subtropical Dry Broadleaf Forests,11
+THEOCA45,1,Panama,Herrera,Tropical and Subtropical Dry Broadleaf Forests,37
+THEOCA85,1,Panama,Herrera,Tropical and Subtropical Dry Broadleaf Forests,31
+COFFAR45,-1,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,21
+COFFAR85,-1,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,25
+COFFAR45,1,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,14
+COFFAR85,1,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,10
+COFFAR45,2,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR85,2,Guatemala,Huehuetenango,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR45,-1,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,17
+COFFAR85,-1,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,20
+COFFAR45,1,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA45,1,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,1,Honduras,Intibuca,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,22
+COFFAR85,-1,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,22
+THEOCA45,-1,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA85,-1,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA45,1,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA85,1,Nicaragua,Jinotega,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR45,-1,Guatemala,Jutiapa,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,Guatemala,Jutiapa,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,-1,Guatemala,Jutiapa,Tropical and Subtropical Dry Broadleaf Forests,12
+THEOCA85,-1,Guatemala,Jutiapa,Tropical and Subtropical Dry Broadleaf Forests,12
+COFFAR45,-1,El Salvador,La Libertad,Tropical and Subtropical Dry Broadleaf Forests,8
+COFFAR85,-1,El Salvador,La Libertad,Tropical and Subtropical Dry Broadleaf Forests,8
+THEOCA45,-1,El Salvador,La Libertad,Tropical and Subtropical Dry Broadleaf Forests,14
+THEOCA85,-1,El Salvador,La Libertad,Tropical and Subtropical Dry Broadleaf Forests,14
+COFFAR45,-1,El Salvador,La Paz,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,El Salvador,La Paz,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,-1,El Salvador,La Paz,Tropical and Subtropical Dry Broadleaf Forests,27
+THEOCA85,-1,El Salvador,La Paz,Tropical and Subtropical Dry Broadleaf Forests,27
+COFFAR45,-1,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA45,-1,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,-1,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,1,Honduras,La Paz,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR85,-1,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA45,-1,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,11
+THEOCA85,-1,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,65
+THEOCA45,1,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,69
+THEOCA85,1,El Salvador,La Union,Tropical and Subtropical Dry Broadleaf Forests,15
+COFFAR45,-1,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,16
+COFFAR85,-1,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,16
+COFFAR45,1,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR85,1,Honduras,Lempira,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,17
+COFFAR85,-1,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,18
+THEOCA45,-1,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,18
+THEOCA85,-1,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,18
+COFFAR45,1,Nicaragua,Leon,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,-1,Panama,Los Santos,Tropical and Subtropical Dry Broadleaf Forests,7
+THEOCA85,-1,Panama,Los Santos,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR45,-1,Nicaragua,Madriz,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,Nicaragua,Madriz,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR45,-1,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,-1,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,18
+THEOCA85,-1,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,31
+THEOCA45,1,Nicaragua,Managua,Tropical and Subtropical Dry Broadleaf Forests,13
+COFFAR45,-1,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR85,-1,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA85,-1,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,1,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA85,1,Nicaragua,Masaya,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,61
+COFFAR85,-1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,62
+THEOCA45,-1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,6
+THEOCA85,-1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR45,1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR85,1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA85,1,Nicaragua,Matagalpa,Tropical and Subtropical Dry Broadleaf Forests,6
+COFFAR45,-1,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,36
+COFFAR85,-1,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,38
+COFFAR45,1,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,1,Mexico,Mexico,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR45,-1,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,17
+COFFAR85,-1,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,17
+COFFAR45,1,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR85,1,Mexico,Michoacan,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,-1,El Salvador,Morazan,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA45,1,El Salvador,Morazan,Tropical and Subtropical Dry Broadleaf Forests,14
+THEOCA85,1,El Salvador,Morazan,Tropical and Subtropical Dry Broadleaf Forests,11
+COFFAR45,-1,Mexico,Morelos,Tropical and Subtropical Dry Broadleaf Forests,33
+COFFAR85,-1,Mexico,Morelos,Tropical and Subtropical Dry Broadleaf Forests,33
+COFFAR45,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR85,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA45,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA45,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR45,-1,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,223
+COFFAR85,-1,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,240
+COFFAR45,1,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,61
+COFFAR85,1,Mexico,Oaxaca,Tropical and Subtropical Dry Broadleaf Forests,44
+COFFAR45,-1,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,73
+COFFAR85,-1,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,73
+THEOCA45,-1,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,16
+THEOCA85,-1,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,40
+THEOCA45,1,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,73
+THEOCA85,1,Honduras,Olancho,Tropical and Subtropical Dry Broadleaf Forests,49
+THEOCA45,-1,Panama,Panama,Tropical and Subtropical Dry Broadleaf Forests,14
+THEOCA85,-1,Panama,Panama,Tropical and Subtropical Dry Broadleaf Forests,21
+THEOCA45,1,Panama,Panama,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR45,-1,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,19
+COFFAR85,-1,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,19
+THEOCA45,-1,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,-1,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,1,Honduras,Paraiso,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR45,-1,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,8
+COFFAR85,-1,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,8
+COFFAR45,1,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,1,Mexico,Puebla,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA85,-1,Costa Rica,Puntarenas,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Costa Rica,Puntarenas,Tropical and Subtropical Dry Broadleaf Forests,26
+THEOCA85,1,Costa Rica,Puntarenas,Tropical and Subtropical Dry Broadleaf Forests,25
+THEOCA45,1,Guatemala,Retalhuleu,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA85,1,Guatemala,Retalhuleu,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,-1,Nicaragua,Rio San Juan,Tropical and Subtropical Dry Broadleaf Forests,14
+THEOCA85,-1,Nicaragua,Rio San Juan,Tropical and Subtropical Dry Broadleaf Forests,17
+THEOCA45,1,Nicaragua,Rio San Juan,Tropical and Subtropical Dry Broadleaf Forests,41
+THEOCA85,1,Nicaragua,Rio San Juan,Tropical and Subtropical Dry Broadleaf Forests,38
+THEOCA45,-1,Nicaragua,Rivas,Tropical and Subtropical Dry Broadleaf Forests,35
+THEOCA85,-1,Nicaragua,Rivas,Tropical and Subtropical Dry Broadleaf Forests,52
+THEOCA45,1,Nicaragua,Rivas,Tropical and Subtropical Dry Broadleaf Forests,28
+THEOCA85,1,Nicaragua,Rivas,Tropical and Subtropical Dry Broadleaf Forests,11
+THEOCA45,2,Nicaragua,Rivas,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR45,-1,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,-1,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,15
+THEOCA85,-1,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,51
+THEOCA45,1,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,41
+THEOCA85,1,El Salvador,San Miguel,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR45,-1,El Salvador,San Salvador,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR85,-1,El Salvador,San Salvador,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA45,-1,El Salvador,San Salvador,Tropical and Subtropical Dry Broadleaf Forests,4
+THEOCA85,-1,El Salvador,San Salvador,Tropical and Subtropical Dry Broadleaf Forests,4
+COFFAR45,-1,El Salvador,San Vicente,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR85,-1,El Salvador,San Vicente,Tropical and Subtropical Dry Broadleaf Forests,7
+THEOCA45,-1,El Salvador,San Vicente,Tropical and Subtropical Dry Broadleaf Forests,29
+THEOCA85,-1,El Salvador,San Vicente,Tropical and Subtropical Dry Broadleaf Forests,29
+COFFAR45,-1,El Salvador,Santa Ana,Tropical and Subtropical Dry Broadleaf Forests,10
+COFFAR85,-1,El Salvador,Santa Ana,Tropical and Subtropical Dry Broadleaf Forests,10
+COFFAR45,-1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,39
+COFFAR85,-1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,40
+THEOCA45,-1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,13
+THEOCA85,-1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,11
+COFFAR45,1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,81
+THEOCA85,1,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,83
+THEOCA45,2,Honduras,Santa Barbara,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,-1,Guatemala,Santa Rosa,Tropical and Subtropical Dry Broadleaf Forests,3
+THEOCA85,-1,Guatemala,Santa Rosa,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR45,-1,El Salvador,Sonsonate,Tropical and Subtropical Dry Broadleaf Forests,10
+COFFAR85,-1,El Salvador,Sonsonate,Tropical and Subtropical Dry Broadleaf Forests,10
+THEOCA45,-1,El Salvador,Sonsonate,Tropical and Subtropical Dry Broadleaf Forests,23
+THEOCA85,-1,El Salvador,Sonsonate,Tropical and Subtropical Dry Broadleaf Forests,23
+THEOCA45,-1,Guatemala,Suchitepequez,Tropical and Subtropical Dry Broadleaf Forests,2
+THEOCA85,-1,Guatemala,Suchitepequez,Tropical and Subtropical Dry Broadleaf Forests,6
+THEOCA45,1,Guatemala,Suchitepequez,Tropical and Subtropical Dry Broadleaf Forests,20
+THEOCA85,1,Guatemala,Suchitepequez,Tropical and Subtropical Dry Broadleaf Forests,16
+COFFAR45,-1,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,7
+COFFAR85,-1,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,7
+THEOCA45,-1,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,30
+THEOCA85,-1,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,39
+THEOCA45,1,El Salvador,Usulutan,Tropical and Subtropical Dry Broadleaf Forests,9
+COFFAR45,-1,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR85,-1,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,-1,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,44
+THEOCA85,-1,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,47
+THEOCA45,1,Honduras,Valle,Tropical and Subtropical Dry Broadleaf Forests,3
+COFFAR45,-1,Mexico,Veracruz,Tropical and Subtropical Dry Broadleaf Forests,13
+COFFAR85,-1,Mexico,Veracruz,Tropical and Subtropical Dry Broadleaf Forests,13
+COFFAR45,-1,Panama,Veraguas,Tropical and Subtropical Dry Broadleaf Forests,5
+COFFAR85,-1,Panama,Veraguas,Tropical and Subtropical Dry Broadleaf Forests,5
+THEOCA45,1,Panama,Veraguas,Tropical and Subtropical Dry Broadleaf Forests,10
+THEOCA85,1,Panama,Veraguas,Tropical and Subtropical Dry Broadleaf Forests,10
+COFFAR45,-1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,16
+COFFAR85,-1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,17
+THEOCA45,-1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,21
+THEOCA85,-1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,26
+COFFAR45,1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,2
+COFFAR85,1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,1
+THEOCA45,1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,67
+THEOCA85,1,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,62
+THEOCA85,2,Honduras,Yoro,Tropical and Subtropical Dry Broadleaf Forests,1
+COFFAR85,-1,El Salvador,Ahuachapan,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,Ahuachapan,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR85,1,El Salvador,Ahuachapan,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR45,-1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,59
+COFFAR85,-1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,70
+THEOCA45,-1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR45,1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,79
+COFFAR85,1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,68
+THEOCA45,1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,435
+THEOCA85,1,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,431
+COFFAR45,2,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,2,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,4
+THEOCA45,2,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA85,2,Costa Rica,Alajuela,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR45,-1,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,116
+COFFAR85,-1,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,124
+COFFAR45,1,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,129
+COFFAR85,1,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,121
+THEOCA45,1,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,442
+THEOCA85,1,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,442
+COFFAR45,2,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR85,2,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,2,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,25
+THEOCA85,2,Guatemala,Alta Verapaz,Tropical and Subtropical Moist Broadleaf Forests,31
+THEOCA45,-1,Colombia,Antioquia,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA85,-1,Colombia,Antioquia,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR45,-1,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,174
+COFFAR85,-1,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,179
+COFFAR45,1,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,17
+COFFAR85,1,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,12
+THEOCA45,1,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,916
+THEOCA85,1,Nicaragua,Atlantico Norte,Tropical and Subtropical Moist Broadleaf Forests,916
+COFFAR45,-1,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,368
+COFFAR85,-1,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,368
+THEOCA45,-1,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,19
+THEOCA85,-1,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,54
+THEOCA45,1,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,1154
+THEOCA85,1,Nicaragua,Atlantico Sur,Tropical and Subtropical Moist Broadleaf Forests,1119
+COFFAR45,-1,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,25
+COFFAR85,-1,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,34
+COFFAR45,1,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,24
+COFFAR85,1,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,15
+THEOCA45,1,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,169
+THEOCA85,1,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,169
+COFFAR45,2,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,2,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,2,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,5
+THEOCA85,2,Honduras,Atlantida,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,-1,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,12
+COFFAR85,-1,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,14
+COFFAR45,1,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,30
+COFFAR85,1,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,28
+THEOCA45,1,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,19
+THEOCA85,1,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,19
+COFFAR45,2,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,2,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,2,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Guatemala,Baja Verapaz,Tropical and Subtropical Moist Broadleaf Forests,5
+THEOCA45,1,Belize,Belize,Tropical and Subtropical Moist Broadleaf Forests,77
+THEOCA85,1,Belize,Belize,Tropical and Subtropical Moist Broadleaf Forests,77
+COFFAR45,-1,Nicaragua,Boaco,Tropical and Subtropical Moist Broadleaf Forests,41
+COFFAR85,-1,Nicaragua,Boaco,Tropical and Subtropical Moist Broadleaf Forests,41
+THEOCA45,1,Nicaragua,Boaco,Tropical and Subtropical Moist Broadleaf Forests,71
+THEOCA85,1,Nicaragua,Boaco,Tropical and Subtropical Moist Broadleaf Forests,71
+COFFAR45,-1,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,25
+COFFAR85,-1,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,31
+COFFAR45,1,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,77
+COFFAR85,1,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,71
+THEOCA45,1,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,158
+THEOCA85,1,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,158
+COFFAR45,2,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR85,2,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,2,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA85,2,Panama,Bocas del Toro,Tropical and Subtropical Moist Broadleaf Forests,12
+THEOCA45,-1,Mexico,Campeche,Tropical and Subtropical Moist Broadleaf Forests,226
+THEOCA85,-1,Mexico,Campeche,Tropical and Subtropical Moist Broadleaf Forests,231
+THEOCA45,1,Mexico,Campeche,Tropical and Subtropical Moist Broadleaf Forests,178
+THEOCA85,1,Mexico,Campeche,Tropical and Subtropical Moist Broadleaf Forests,173
+COFFAR45,-1,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR85,-1,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,-1,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,1,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,1,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,2,Nicaragua,Carazo,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR45,-1,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,26
+COFFAR85,-1,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,33
+COFFAR45,1,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,67
+COFFAR85,1,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,60
+THEOCA45,1,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,73
+THEOCA85,1,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,73
+COFFAR45,2,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,2,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA45,2,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA85,2,Costa Rica,Cartago,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR45,-1,Belize,Cayo,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR85,-1,Belize,Cayo,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA45,1,Belize,Cayo,Tropical and Subtropical Moist Broadleaf Forests,221
+THEOCA85,1,Belize,Cayo,Tropical and Subtropical Moist Broadleaf Forests,221
+COFFAR45,1,El Salvador,Chalatenango,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,1,El Salvador,Chalatenango,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,537
+COFFAR85,-1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,602
+THEOCA45,-1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,28
+THEOCA85,-1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,23
+COFFAR45,1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,407
+COFFAR85,1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,342
+THEOCA45,1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,1402
+THEOCA85,1,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,1407
+COFFAR45,2,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR85,2,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA45,2,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,19
+THEOCA85,2,Mexico,Chiapas,Tropical and Subtropical Moist Broadleaf Forests,17
+COFFAR45,-1,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,-1,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,14
+COFFAR85,1,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,14
+THEOCA45,1,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,1,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR45,2,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR85,2,Guatemala,Chimaltenango,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,-1,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,-1,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,1,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,2,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,2,Guatemala,Chiquimula,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,44
+COFFAR85,-1,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,52
+COFFAR45,1,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,56
+COFFAR85,1,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,48
+THEOCA45,1,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,246
+THEOCA85,1,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,246
+COFFAR45,2,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR85,2,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,5
+THEOCA45,2,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA85,2,Panama,Chiriqui,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR45,-1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR85,-1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,-1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,244
+THEOCA85,-1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,297
+COFFAR45,1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,111
+THEOCA85,1,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,58
+THEOCA45,2,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,2,Colombia,Choco,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Honduras,Choluteca,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Honduras,Choluteca,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,1,Honduras,Choluteca,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,1,Honduras,Choluteca,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,44
+COFFAR85,-1,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,44
+THEOCA45,-1,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,4
+THEOCA45,1,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,124
+THEOCA85,1,Nicaragua,Chontales,Tropical and Subtropical Moist Broadleaf Forests,121
+COFFAR45,-1,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,-1,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA45,-1,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,-1,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,18
+THEOCA45,1,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,131
+THEOCA85,1,Panama,Cocle,Tropical and Subtropical Moist Broadleaf Forests,116
+COFFAR45,-1,Honduras,Colon,Tropical and Subtropical Moist Broadleaf Forests,17
+COFFAR85,-1,Honduras,Colon,Tropical and Subtropical Moist Broadleaf Forests,17
+THEOCA45,1,Honduras,Colon,Tropical and Subtropical Moist Broadleaf Forests,338
+THEOCA85,1,Honduras,Colon,Tropical and Subtropical Moist Broadleaf Forests,338
+THEOCA45,-1,Panama,Colon,Tropical and Subtropical Moist Broadleaf Forests,39
+THEOCA85,-1,Panama,Colon,Tropical and Subtropical Moist Broadleaf Forests,93
+THEOCA45,1,Panama,Colon,Tropical and Subtropical Moist Broadleaf Forests,170
+THEOCA85,1,Panama,Colon,Tropical and Subtropical Moist Broadleaf Forests,116
+COFFAR45,-1,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,-1,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,1,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,30
+COFFAR85,1,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,27
+THEOCA45,1,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA85,1,Honduras,Comayagua,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR45,-1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,28
+COFFAR85,-1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,32
+THEOCA45,-1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,-1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,20
+COFFAR85,1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,16
+THEOCA45,1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,37
+THEOCA85,1,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,38
+THEOCA45,2,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Honduras,Copan,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,-1,Belize,Corozal,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA85,-1,Belize,Corozal,Tropical and Subtropical Moist Broadleaf Forests,16
+THEOCA45,1,Belize,Corozal,Tropical and Subtropical Moist Broadleaf Forests,31
+THEOCA85,1,Belize,Corozal,Tropical and Subtropical Moist Broadleaf Forests,21
+COFFAR45,-1,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,42
+COFFAR85,-1,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,44
+COFFAR45,1,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR85,1,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,1,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,95
+THEOCA85,1,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,95
+THEOCA85,2,Honduras,Cortes,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,15
+COFFAR85,-1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,16
+THEOCA45,-1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,108
+THEOCA85,-1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,169
+COFFAR45,1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,189
+THEOCA85,1,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,128
+THEOCA45,2,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA85,2,Panama,Darien,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,-1,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,-1,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR85,1,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,2,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR85,2,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,2,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,2,Guatemala,El Progreso,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR85,-1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,-1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,49
+THEOCA85,-1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,65
+COFFAR45,1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR85,1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,66
+THEOCA85,1,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,50
+THEOCA45,2,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA85,2,Panama,Embera,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,-1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR85,-1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA45,-1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,-1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR45,1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,53
+THEOCA85,1,Guatemala,Escuintla,Tropical and Subtropical Moist Broadleaf Forests,45
+THEOCA45,-1,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR85,1,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,1,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,1,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,2,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,2,Nicaragua,Esteli,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,-1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,-1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,38
+COFFAR85,1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,37
+THEOCA45,1,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,2,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,2,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,2,Honduras,Francisco Morazan,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Honduras,Gracias A Dios,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,-1,Honduras,Gracias A Dios,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,1,Honduras,Gracias A Dios,Tropical and Subtropical Moist Broadleaf Forests,395
+THEOCA85,1,Honduras,Gracias A Dios,Tropical and Subtropical Moist Broadleaf Forests,395
+THEOCA45,-1,Nicaragua,Granada,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA85,-1,Nicaragua,Granada,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA45,1,Nicaragua,Granada,Tropical and Subtropical Moist Broadleaf Forests,5
+THEOCA85,1,Nicaragua,Granada,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,2,Nicaragua,Granada,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,84
+COFFAR85,-1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,98
+THEOCA85,-1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,27
+COFFAR85,1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA45,1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,199
+THEOCA85,1,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,198
+THEOCA45,2,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Costa Rica,Guanacaste,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Guatemala,Guatemala,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,1,Guatemala,Guatemala,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,-1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,4
+THEOCA45,-1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,-1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR45,1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,24
+COFFAR85,1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,22
+THEOCA45,1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,109
+THEOCA85,1,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,101
+COFFAR45,2,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,2,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA45,2,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,5
+THEOCA85,2,Costa Rica,Heredia,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,-1,Panama,Herrera,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA85,-1,Panama,Herrera,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,1,Panama,Herrera,Tropical and Subtropical Moist Broadleaf Forests,16
+THEOCA85,1,Panama,Herrera,Tropical and Subtropical Moist Broadleaf Forests,16
+THEOCA45,2,Panama,Herrera,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,2,Panama,Herrera,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR45,-1,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,61
+COFFAR85,-1,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,80
+THEOCA45,-1,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,91
+COFFAR85,1,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,72
+COFFAR45,2,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,2,Mexico,Hidalgo,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR45,-1,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,14
+COFFAR85,-1,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,20
+COFFAR45,1,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,25
+COFFAR85,1,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,19
+THEOCA45,1,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,50
+THEOCA85,1,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,50
+THEOCA45,2,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Guatemala,Huehuetenango,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Honduras,Intibuca,Tropical and Subtropical Moist Broadleaf Forests,26
+COFFAR85,1,Honduras,Intibuca,Tropical and Subtropical Moist Broadleaf Forests,26
+THEOCA45,1,Honduras,Islas De Bahia,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA85,1,Honduras,Islas De Bahia,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR45,-1,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,73
+COFFAR85,-1,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,82
+COFFAR45,1,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,16
+COFFAR85,1,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,1,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,352
+THEOCA85,1,Guatemala,Izabal,Tropical and Subtropical Moist Broadleaf Forests,352
+COFFAR45,-1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,186
+COFFAR85,-1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,201
+THEOCA45,-1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,-1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR45,1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,67
+COFFAR85,1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,52
+THEOCA45,1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,345
+THEOCA85,1,Nicaragua,Jinotega,Tropical and Subtropical Moist Broadleaf Forests,344
+COFFAR45,-1,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR85,-1,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,-1,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,1,Guatemala,Jutiapa,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,-1,Panama,Kuna Yala,Tropical and Subtropical Moist Broadleaf Forests,19
+THEOCA85,-1,Panama,Kuna Yala,Tropical and Subtropical Moist Broadleaf Forests,27
+THEOCA45,1,Panama,Kuna Yala,Tropical and Subtropical Moist Broadleaf Forests,63
+THEOCA85,1,Panama,Kuna Yala,Tropical and Subtropical Moist Broadleaf Forests,55
+THEOCA45,2,Panama,Kuna Yala,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,-1,El Salvador,La Libertad,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,La Libertad,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR85,1,El Salvador,La Libertad,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,-1,El Salvador,La Paz,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,El Salvador,La Paz,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,La Paz,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,1,El Salvador,La Paz,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Honduras,La Paz,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR85,1,Honduras,La Paz,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR85,-1,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,24
+COFFAR85,1,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,23
+COFFAR45,2,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,2,Honduras,Lempira,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,19
+COFFAR85,-1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,27
+THEOCA45,-1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA85,-1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,88
+COFFAR45,1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,83
+COFFAR85,1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,75
+THEOCA45,1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,328
+THEOCA85,1,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,250
+COFFAR45,2,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR85,2,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA45,2,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA85,2,Costa Rica,Limon,Tropical and Subtropical Moist Broadleaf Forests,12
+COFFAR45,1,Nicaragua,Madriz,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,1,Nicaragua,Madriz,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,1,Nicaragua,Madriz,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,1,Nicaragua,Madriz,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR85,-1,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR45,1,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,1,Nicaragua,Managua,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Masaya,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,-1,Nicaragua,Masaya,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,2,Nicaragua,Masaya,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,189
+COFFAR85,-1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,195
+THEOCA45,-1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA85,-1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,12
+COFFAR45,1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,31
+COFFAR85,1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,25
+THEOCA45,1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,249
+THEOCA85,1,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,245
+THEOCA45,2,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,2,Nicaragua,Matagalpa,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,-1,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,1,El Salvador,Morazan,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR45,-1,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,100
+COFFAR85,-1,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,117
+COFFAR45,1,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,89
+COFFAR85,1,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,72
+THEOCA45,1,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,278
+THEOCA85,1,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,278
+THEOCA45,2,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,15
+THEOCA85,2,Panama,Ngobe Bugle,Tropical and Subtropical Moist Broadleaf Forests,17
+COFFAR45,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,30
+COFFAR85,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,36
+THEOCA45,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,-1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,29
+COFFAR85,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,23
+THEOCA45,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,35
+THEOCA85,1,Nicaragua,Nueva Segovia,Tropical and Subtropical Moist Broadleaf Forests,31
+COFFAR45,-1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,243
+COFFAR85,-1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,273
+THEOCA45,-1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,98
+THEOCA85,-1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,119
+COFFAR45,1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,259
+COFFAR85,1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,229
+THEOCA45,1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,600
+THEOCA85,1,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,579
+COFFAR45,2,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR85,2,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,14
+THEOCA45,2,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA85,2,Mexico,Oaxaca,Tropical and Subtropical Moist Broadleaf Forests,15
+COFFAR85,-1,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,27
+COFFAR85,1,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,26
+COFFAR45,2,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,2,Honduras,Ocotepeque,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,110
+COFFAR85,-1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,123
+THEOCA45,-1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR45,1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,41
+COFFAR85,1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,28
+THEOCA45,1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,301
+THEOCA85,1,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,298
+THEOCA45,2,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA85,2,Honduras,Olancho,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA45,-1,Belize,Orange Walk,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,-1,Belize,Orange Walk,Tropical and Subtropical Moist Broadleaf Forests,15
+THEOCA45,1,Belize,Orange Walk,Tropical and Subtropical Moist Broadleaf Forests,209
+THEOCA85,1,Belize,Orange Walk,Tropical and Subtropical Moist Broadleaf Forests,196
+COFFAR45,-1,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR85,-1,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,-1,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,139
+THEOCA85,-1,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,193
+THEOCA45,1,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,303
+THEOCA85,1,Panama,Panama,Tropical and Subtropical Moist Broadleaf Forests,249
+COFFAR45,-1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,-1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,-1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,4
+THEOCA45,1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,1,Honduras,Paraiso,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,31
+COFFAR85,-1,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,31
+THEOCA45,-1,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,392
+THEOCA85,-1,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,412
+THEOCA45,1,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,1229
+THEOCA85,1,Guatemala,Peten,Tropical and Subtropical Moist Broadleaf Forests,1209
+COFFAR45,-1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,63
+COFFAR85,-1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,70
+THEOCA45,-1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,28
+THEOCA85,-1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,26
+COFFAR45,1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,115
+COFFAR85,1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,108
+THEOCA45,1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,132
+THEOCA85,1,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,134
+COFFAR45,2,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,2,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,4
+THEOCA45,2,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA85,2,Mexico,Puebla,Tropical and Subtropical Moist Broadleaf Forests,16
+COFFAR45,-1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,109
+COFFAR85,-1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,126
+THEOCA45,-1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA85,-1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR45,1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,88
+COFFAR85,1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,71
+THEOCA45,1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,446
+THEOCA85,1,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,442
+COFFAR45,2,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR85,2,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,2,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,2,Costa Rica,Puntarenas,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR45,-1,Mexico,Queretaro,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,-1,Mexico,Queretaro,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR85,-1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,-1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA85,-1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR45,1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR85,1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,8
+THEOCA45,1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,15
+THEOCA85,1,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,15
+COFFAR45,2,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,2,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA45,2,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,2,Guatemala,Quetzaltenango,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR45,-1,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR85,-1,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR45,1,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR85,1,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA45,1,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,96
+THEOCA85,1,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,96
+THEOCA45,2,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,2,Guatemala,Quiche,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,-1,Mexico,Quintana Roo,Tropical and Subtropical Moist Broadleaf Forests,404
+THEOCA85,-1,Mexico,Quintana Roo,Tropical and Subtropical Moist Broadleaf Forests,399
+THEOCA45,1,Mexico,Quintana Roo,Tropical and Subtropical Moist Broadleaf Forests,489
+THEOCA85,1,Mexico,Quintana Roo,Tropical and Subtropical Moist Broadleaf Forests,494
+THEOCA85,2,Mexico,Quintana Roo,Tropical and Subtropical Moist Broadleaf Forests,15
+COFFAR45,-1,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR85,-1,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,-1,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,1,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,22
+THEOCA85,1,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,22
+THEOCA45,2,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Guatemala,Retalhuleu,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,27
+COFFAR85,-1,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,27
+THEOCA45,-1,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA85,-1,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA45,1,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,195
+THEOCA85,1,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,191
+THEOCA45,2,Nicaragua,Rio San Juan,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,-1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA45,-1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,-1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR45,1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA45,1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,16
+THEOCA85,1,Nicaragua,Rivas,Tropical and Subtropical Moist Broadleaf Forests,14
+COFFAR45,1,Guatemala,Sacatepequez,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR85,1,Guatemala,Sacatepequez,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR45,2,Guatemala,Sacatepequez,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,2,Guatemala,Sacatepequez,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,42
+COFFAR85,-1,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,62
+COFFAR45,1,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,133
+COFFAR85,1,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,113
+THEOCA45,1,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,151
+THEOCA85,1,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,151
+COFFAR45,2,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR85,2,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA45,2,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,17
+THEOCA85,2,Costa Rica,San Jose,Tropical and Subtropical Moist Broadleaf Forests,17
+COFFAR45,-1,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,19
+COFFAR85,-1,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,20
+THEOCA45,-1,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA85,-1,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR45,1,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,6
+COFFAR85,1,Mexico,San Luis Potosi,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR45,-1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR85,-1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA45,-1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA85,-1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR45,1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,25
+COFFAR85,1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,22
+THEOCA45,1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,42
+THEOCA85,1,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,41
+COFFAR45,2,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,4
+COFFAR85,2,Guatemala,San Marcos,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,-1,El Salvador,San Miguel,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,-1,El Salvador,San Miguel,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,San Miguel,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,1,El Salvador,San Miguel,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,San Vicente,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,1,El Salvador,San Vicente,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,Santa Ana,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR85,1,El Salvador,Santa Ana,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR45,-1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,61
+COFFAR85,-1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,73
+THEOCA45,-1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA85,-1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,36
+COFFAR85,1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,24
+THEOCA45,1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,91
+THEOCA85,1,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,95
+THEOCA45,2,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Honduras,Santa Barbara,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,-1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,12
+COFFAR85,-1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,15
+THEOCA45,-1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,18
+THEOCA85,-1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,21
+COFFAR45,1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR85,1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,14
+THEOCA85,1,Guatemala,Santa Rosa,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR45,1,Guatemala,Solola,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR85,1,Guatemala,Solola,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,1,El Salvador,Sonsonate,Tropical and Subtropical Moist Broadleaf Forests,9
+COFFAR85,1,El Salvador,Sonsonate,Tropical and Subtropical Moist Broadleaf Forests,9
+THEOCA45,1,Belize,Stann Creek,Tropical and Subtropical Moist Broadleaf Forests,96
+THEOCA85,1,Belize,Stann Creek,Tropical and Subtropical Moist Broadleaf Forests,96
+COFFAR45,-1,Guatemala,Suchitepequez,Tropical and Subtropical Moist Broadleaf Forests,13
+COFFAR85,-1,Guatemala,Suchitepequez,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA45,1,Guatemala,Suchitepequez,Tropical and Subtropical Moist Broadleaf Forests,44
+THEOCA85,1,Guatemala,Suchitepequez,Tropical and Subtropical Moist Broadleaf Forests,44
+COFFAR45,-1,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,-1,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,3
+THEOCA45,-1,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,4
+THEOCA85,-1,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA45,1,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,1098
+THEOCA85,1,Mexico,Tabasco,Tropical and Subtropical Moist Broadleaf Forests,1095
+COFFAR45,-1,Belize,Toledo,Tropical and Subtropical Moist Broadleaf Forests,20
+COFFAR85,-1,Belize,Toledo,Tropical and Subtropical Moist Broadleaf Forests,20
+THEOCA45,1,Belize,Toledo,Tropical and Subtropical Moist Broadleaf Forests,179
+THEOCA85,1,Belize,Toledo,Tropical and Subtropical Moist Broadleaf Forests,179
+THEOCA45,-1,El Salvador,Usulutan,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,-1,El Salvador,Usulutan,Tropical and Subtropical Moist Broadleaf Forests,2
+COFFAR45,1,El Salvador,Usulutan,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,1,El Salvador,Usulutan,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR45,-1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,169
+COFFAR85,-1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,188
+THEOCA45,-1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,137
+THEOCA85,-1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,124
+COFFAR45,1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,239
+COFFAR85,1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,220
+THEOCA45,1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,894
+THEOCA85,1,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,907
+COFFAR45,2,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,10
+COFFAR85,2,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA45,2,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,11
+THEOCA85,2,Mexico,Veracruz,Tropical and Subtropical Moist Broadleaf Forests,16
+COFFAR45,-1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,46
+COFFAR85,-1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,44
+THEOCA45,-1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,34
+THEOCA85,-1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,34
+COFFAR45,1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,3
+COFFAR85,1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,5
+THEOCA45,1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,424
+THEOCA85,1,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,424
+THEOCA45,2,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,1
+THEOCA85,2,Panama,Veraguas,Tropical and Subtropical Moist Broadleaf Forests,1
+COFFAR45,-1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,81
+COFFAR85,-1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,104
+THEOCA45,-1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,10
+THEOCA85,-1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,18
+COFFAR45,1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,58
+COFFAR85,1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,35
+THEOCA45,1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,127
+THEOCA85,1,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,119
+THEOCA45,2,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,7
+THEOCA85,2,Honduras,Yoro,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR45,-1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,11
+COFFAR85,-1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,13
+THEOCA45,-1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA85,-1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,7
+COFFAR45,1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,8
+COFFAR85,1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,19
+THEOCA85,1,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,18
+COFFAR45,2,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,5
+COFFAR85,2,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,6
+THEOCA45,2,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,2
+THEOCA85,2,Guatemala,Zacapa,Tropical and Subtropical Moist Broadleaf Forests,2

@@ -54,8 +54,7 @@ spnames <- sort(unique(sp$acronym))
 
 for (i in seq_along(spnames)) {
   
-  r <- list.files(paste0("E:/ensemble_modelling/", spnames[i] , "/ensembles/presence"),
-                  #paste0("processing/enm/", spnames[i] , "/ensembles/presence"),
+  r <- list.files(paste0("processing/enm/", spnames[i] , "/ensembles/presence"),
                   pattern = "_bio_current.gri$", 
                   full.names = TRUE)
   
@@ -113,8 +112,7 @@ for (i in seq_along(spnames)) {
   for (j in seq_along(RCP)){
 
     #read rasters of k rcp scenarios
-    r <- list.files(paste0("E:/ensemble_modelling/", spnames[i] , "/ensembles/presence"),
-                    #paste0("processing/enm/", spnames[i] , "/ensembles/presence"),
+    r <- list.files(paste0("processing/enm/", spnames[i] , "/ensembles/presence"),
                     pattern = paste0(RCP[j],".gri$"),
                     full.names = TRUE)
     r %<>%
@@ -206,8 +204,7 @@ crop_r <- list()
 #run over crop names and rcp scenarios to identify changes in suitability between scenarios
 for (i in seq_along(crop)){
 
-  r <- list.files(paste0("E:/ensemble_modelling/", crop[i] , "/ensembles/presence"),
-                  #paste0("processing/enm/", crop[i] , "/ensembles/presence"),
+  r <- list.files(paste0("processing/enm/", crop[i] , "/ensembles/presence"),
                   pattern= paste0(crop[i],"_bio_current.gri$",sep=""),
                   full.names = TRUE)
   
@@ -229,8 +226,7 @@ for (i in seq_along(crop)){
   for (j in seq_along(RCP)){
     
     #read rasters of j rcp scenario
-    rf <- list.files(paste0("E:/ensemble_modelling/", crop[i] , "/ensembles/presence"),
-                     #paste0("processing/enm/", crop[i] , "/ensembles/presence"),
+    rf <- list.files(paste0("processing/enm/", crop[i] , "/ensembles/presence"),
                      pattern = paste0(RCP[j],".gri$",sep=""),
                      full.names = TRUE)
       

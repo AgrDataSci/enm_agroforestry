@@ -40,5 +40,3 @@ rsconnect/
 # raw data
 /data/raw
 
-# ignore for the moment
-/script/03_change_suitability_vulnerability.R
