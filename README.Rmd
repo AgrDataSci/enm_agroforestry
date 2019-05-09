@@ -6,6 +6,8 @@ output: github_document
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>.
 
+[![HitCount](http://hits.dwyl.io/agrobioinfoservices/enm_agroforestry.svg)](http://hits.dwyl.io/agrobioinfoservices/enm_agroforestry)
+
 ## Overview
 
 Climate change threatens coffee production and the livelihoods of thousands of families in Mesoamerica that depend on it. Replacing coffee with cocoa and integrating trees in combined agroforestry systems to ameliorate abiotic stress are among the proposed alternatives to overcome this challenge. These two alternatives do not consider the vulnerability of cocoa and tree species commonly used in agroforestry plantations to future climate conditions. We assessed the suitability of these alternatives by identifying the potential changes in the distribution of coffee, cocoa and the 100 most common agroforestry trees found in Mesoamerica. 
