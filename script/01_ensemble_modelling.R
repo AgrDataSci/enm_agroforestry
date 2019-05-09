@@ -1,11 +1,11 @@
 ####################################################
-###### SCRIPT TO MODEL CURRENT AND FUTURE NICHES OF 
-###### PLANT SPECIES USING ENSEMBLE MODELLING 
-# k.desousa (at) cgiar (dot) org
+# SCRIPT TO MODEL CURRENT AND FUTURE NICHES OF 
+# TREE SPECIES USING ENSEMBLE MODELLING 
 # Updated 28Jun2018
-####################################################
 
-###  LOAD PACKAGES   ######
+#...................................................
+#...................................................
+# Packages ####
 if(!require(tidyverse)) install.packages("tidyverse") else library(tidyverse)
 if(!require(magrittr)) install.packages("magrittr") else library(magrittr)
 if(!require(sp)) install.packages("sp") else library(sp)
@@ -48,8 +48,10 @@ if(!require(PresenceAbsence)) install.packages("PresenceAbsence") else library(P
 if(!require(tcltk2)) install.packages("tcltk2") else library(tcltk2)
 if(!require(BiodiversityR)) install.packages("BiodiversityR") else  library(BiodiversityR)
 
-# ================================================
-# ================================================
+#...................................................
+#...................................................
+# Check bioclim and CGM files ####
+
 ## This scrip requires an external directory with bioclimatic layers 
 ## from WorldClim, you must download it via http://www.worldclim.org/version1
 ## and update the local directory in your R project
@@ -72,10 +74,10 @@ bio_names <- gsub(".tif","",list.files(files[1], pattern = ".tif$"))
 myproj <- "+proj=longlat +datum=WGS84"
 mesoam <- raster::extent(-105, -75, 1, 25) 
 
-# ================================================
-# ================================================
-# Prepare data  ####
-# read occurrence data
+#...................................................
+#...................................................
+# Read occurrence data ####
+
 sp <- read_csv("data/species_acronyms.csv")
 df <- read_csv("data/occurrence_data.csv")
 
@@ -86,9 +88,10 @@ df %<>%
   dplyr::select(acronym, lon, lat) %>%
   rename(x = lon, y = lat)
 
-# ================================================
-# ================================================
-# Read current climate predictors variables #
+#...................................................
+#...................................................
+# Read current climate predictors variables ####
+
 files <- list.files("data/worldclim/current", 
                     pattern = ".bil$", 
                     full.names = TRUE)
@@ -102,64 +105,64 @@ bio_current %<>%
   raster::crop(., mesoam) %>%
   raster::stack(.)
 
-# ================================================
-# ================================================
+#...................................................
+#...................................................
 # Variable selection with VIF ####
 
-# # run once for all presence points
-# # create background points across the full extension
-# xy <- df %>% 
-#   dplyr::select(x:y) %>%
-#   distinct(x, y, .keep_all = TRUE)
-# 
-# xy <- xy[sample(row.names(xy), nrow(xy)*0.15), ]
-# 
-# largedist <- xy %>% 
-#   raster::pointDistance(., longlat = FALSE) %>%
-#   max(., na.rm = TRUE)
-# 
-# hull <- convHull(xy,lonlat=TRUE)
-# 
-# ext.hull <- gBuffer(hull@polygons, width=0.1*largedist)
-# 
-# bg1 <- spsample(ext.hull,10000, type="random")
-# 
-# bg <- gridSample(bg1, bio_current, n=1)
-# 
-# xy <- df %>% 
-#   dplyr::select(x:y) %>%
-#   as.matrix()
-# 
-# VIF.result <- ensemble.calibrate.models(x = bio_current, p=xy, an=bg,
-#                             VIF = TRUE,
-#                             MAXENT=0, GBM=0, GBMSTEP=0, RF=0, GLM=0, GLMSTEP=0, GAM=0, 
-#                             GAMSTEP=0, MGCV=0, MGCVFIX=0,EARTH=0, RPART=0, NNET=0, FDA=0, 
-#                             SVM=0, SVME=0, BIOCLIM=0, DOMAIN=0, MAHAL=0, models.save = TRUE)
-# 
-# #Predictors with VIF values > 10 are
-# #eliminated from the analysis, see Rogerson (2001) Statistical Methods for Geography
-# var.drops <- c("bio07","bio05","bio06")
-# VIF.max <- 10 
-# for (j in 1:length(names(bio_current))) {
-#   
-#   VIF.result <- ensemble.calibrate.models(x=bio_current, p=xy, an=10000,
-#                               layer.drops=var.drops,
-#                               VIF=TRUE,
-#                               MAXENT=0, GBM=0, GBMSTEP=0, RF=0, GLM=0, GLMSTEP=0, GAM=0, 
-#                               GAMSTEP=0, MGCV=0, MGCVFIX=0,EARTH=0, RPART=0, NNET=0, FDA=0, 
-#                               SVM=0, SVME=0, BIOCLIM=0, DOMAIN=0, MAHAL=0, models.save = TRUE)
-#   print(VIF.result$VIF)
-#   if (VIF.result$VIF[1] > VIF.max) {var.drops <- c(var.drops, names(VIF.result$VIF)[1])}
-# }
-# 
-# bio_vif1 <- as.data.frame(VIF.result$VIF)
-# bio_vif  <- rownames(bio_vif1)
+# run once for all presence points
+# create background points across the full extension
+xy <- df %>%
+  dplyr::select(x:y) %>%
+  distinct(x, y, .keep_all = TRUE)
+
+xy <- xy[sample(row.names(xy), nrow(xy)*0.15), ]
+
+largedist <- xy %>%
+  raster::pointDistance(., longlat = FALSE) %>%
+  max(., na.rm = TRUE)
+
+hull <- convHull(xy,lonlat=TRUE)
+
+ext.hull <- gBuffer(hull@polygons, width=0.1*largedist)
+
+bg1 <- spsample(ext.hull,10000, type="random")
+
+bg <- gridSample(bg1, bio_current, n=1)
+
+xy <- df %>%
+  dplyr::select(x:y) %>%
+  as.matrix()
+
+VIF.result <- ensemble.calibrate.models(x = bio_current, p=xy, an=bg,
+                                        VIF = TRUE,
+                                        MAXENT=0, GBM=0, GBMSTEP=0, RF=0, GLM=0, GLMSTEP=0, GAM=0,
+                                        GAMSTEP=0, MGCV=0, MGCVFIX=0,EARTH=0, RPART=0, NNET=0, FDA=0,
+                                        SVM=0, SVME=0, BIOCLIM=0, DOMAIN=0, MAHAL=0, models.save = TRUE)
+
+#Predictors with VIF values > 10 are
+#eliminated from the analysis, see Rogerson (2001) Statistical Methods for Geography
+var.drops <- c("bio07","bio05","bio06")
+VIF.max <- 10
+for (j in 1:length(names(bio_current))) {
+
+  VIF.result <- ensemble.calibrate.models(x=bio_current, p=xy, an=10000,
+                                          layer.drops=var.drops,
+                                          VIF=TRUE,
+                                          MAXENT=0, GBM=0, GBMSTEP=0, RF=0, GLM=0, GLMSTEP=0, GAM=0,
+                                          GAMSTEP=0, MGCV=0, MGCVFIX=0,EARTH=0, RPART=0, NNET=0, FDA=0,
+                                          SVM=0, SVME=0, BIOCLIM=0, DOMAIN=0, MAHAL=0, models.save = TRUE)
+  print(VIF.result$VIF)
+  if (VIF.result$VIF[1] > VIF.max) {var.drops <- c(var.drops, names(VIF.result$VIF)[1])}
+}
+
+bio_vif1 <- as.data.frame(VIF.result$VIF)
+bio_vif  <- rownames(bio_vif1)
 
 # Final seletion of variables for modelling
 bio_current <- subset(bio_current, subset = bio_vif)
 
-# ================================================
-# ================================================
+#...................................................
+#...................................................
 # Run ensemble modelling ####
 
 species <- sort(unique(df$acronym))
@@ -309,7 +312,7 @@ for (i in seq_along(species) ) {
   
 }
 
-#END
+
 
 
 
