@@ -39,6 +39,9 @@ rsconnect/
 
 # raw data
 /data/raw
+/script/old_scripts
 
 # manuscript files 
 /manuscript
+/replication
+
