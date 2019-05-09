@@ -2,10 +2,6 @@
 Coffee and cocoa agroforestry in a warmer Mesoamerica
 =====================================================
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>.
-
-[![HitCount](http://hits.dwyl.io/agrobioinfoservices/enm_agroforestry.svg)](http://hits.dwyl.io/agrobioinfoservices/enm_agroforestry)
-
 Overview
 --------
 
@@ -31,3 +27,8 @@ Acknowledgments
 ---------------
 
 Part of this research was supported by cooperative agreement HI-A70D41/A1092 that was made possible by the support of [HIVOS International](https://www.hivos.org/). This work was implemented as part of the CGIAR Research Program on Forests, Trees and Agroforestry - [FTA](http://www.foreststreesagroforestry.org/) and the CGIAR Research Program on Climate Change, Agriculture and Food Security - [CCAFS](https://ccafs.cgiar.org/), which are carried out with support from the [CGIAR Trust Fund](https://www.cgiar.org/funders) and through bilateral funding agreements.
+
+Copyright & Usage:
+------------------
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
