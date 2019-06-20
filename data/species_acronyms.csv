@@ -100,4 +100,4 @@ TAMAIN,Leguminosae,Tamarindus indica,0.086252469,Fruit,1,0,642
 TERMAM,Combretaceae,Terminalia amazonia,0.123814029,Timber,1,1,715
 TERMOB,Combretaceae,Terminalia oblonga,0.176678445,Timber,1,1,380
 COFFAR,Rubiaceae,Coffea arabica,NA,Crop,NA,NA,NA
-THEOCA,Theobroma cacao,Malvaceae,NA,Crop,NA,NA,NA
+THEOCA,Malvaceae,Theobroma cacao,NA,Crop,NA,NA,NA
